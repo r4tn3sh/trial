@@ -1,0 +1,15 @@
+<div class="plot">
+    <a class="thumbnail" href="../png/indoor_-72_0_ftpLambda_2_5_Wifi_latency.png">
+      <img src="indoor_-72_0_ftpLambda_2_5_Wifi_latency.png" alt="EDThresh=-72.0, FtpLambda=2.5, CellA=Wifi, UDP  CDF Latency [ms] " width="200" height="150" />
+    </a>
+    <div class="resource">
+     eps: 
+    <a  href="../ps/indoor_-72_0_ftpLambda_2_5_Wifi_latency.eps">image</a>
+    <a  href="../scripts/indoor_-72_0_ftpLambda_2_5_Wifi_latency_eps.gnuplot">gnuplot script</a>
+    </div>
+    <div class="resource">
+     pstex: 
+    <a href="../pstex/indoor_-72_0_ftpLambda_2_5_Wifi_latency.ps">ps part</a>
+    <a href="../pstex/indoor_-72_0_ftpLambda_2_5_Wifi_latency.tex">tex part</a>
+    </div>
+</div>

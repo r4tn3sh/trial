@@ -1,0 +1,4466 @@
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.147s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 44118
+  Tx Bytes:   46588608
+  TxOffered:  186.354 Mbps
+  Rx Bytes:   3467904
+  Throughput: 8.92315 Mbps
+  Mean delay:  1459.66 ms
+  Mean jitter:  1.48458 ms
+  Rx Packets: 3284
+Flow 2 (1.0.0.2:49154 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 43397
+  Tx Bytes:   45827232
+  TxOffered:  183.309 Mbps
+  Rx Bytes:   4912512
+  Throughput: 11.6429 Mbps
+  Mean delay:  1065.31 ms
+  Mean jitter:  1.04818 ms
+  Rx Packets: 4652
+Flow 3 (1.0.0.2:49155 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 43381
+  Tx Bytes:   45810336
+  TxOffered:  183.241 Mbps
+  Rx Bytes:   5024448
+  Throughput: 12.913 Mbps
+  Mean delay:  999.099 ms
+  Mean jitter:  0.969049 ms
+  Rx Packets: 4758
+Flow 4 (1.0.0.2:49156 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 42501
+  Tx Bytes:   44881056
+  TxOffered:  179.524 Mbps
+  Rx Bytes:   3266208
+  Throughput: 8.59349 Mbps
+  Mean delay:  1502.08 ms
+  Mean jitter:  1.52331 ms
+  Rx Packets: 3093
+Flow 5 (1.0.0.2:49157 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 40458
+  Tx Bytes:   42723648
+  TxOffered:  170.895 Mbps
+  Rx Bytes:   3193344
+  Throughput: 8.20223 Mbps
+  Mean delay:  1327.73 ms
+  Mean jitter:  1.55146 ms
+  Rx Packets: 3024
+Flow 6 (1.0.0.2:49158 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 37295
+  Tx Bytes:   39383520
+  TxOffered:  157.534 Mbps
+  Rx Bytes:   2570304
+  Throughput: 6.7783 Mbps
+  Mean delay:  1757.19 ms
+  Mean jitter:  1.75215 ms
+  Rx Packets: 2434
+Flow 7 (1.0.0.2:49159 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 36484
+  Tx Bytes:   38527104
+  TxOffered:  154.108 Mbps
+  Rx Bytes:   3341184
+  Throughput: 10.4813 Mbps
+  Mean delay:  1204.07 ms
+  Mean jitter:  1.2381 ms
+  Rx Packets: 3164
+Flow 8 (1.0.0.2:49160 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 34292
+  Tx Bytes:   36212352
+  TxOffered:  144.849 Mbps
+  Rx Bytes:   2582976
+  Throughput: 7.20732 Mbps
+  Mean delay:  1637.1 ms
+  Mean jitter:  1.64609 ms
+  Rx Packets: 2446
+Flow 9 (1.0.0.2:49161 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 33884
+  Tx Bytes:   35781504
+  TxOffered:  143.126 Mbps
+  Rx Bytes:   2610432
+  Throughput: 7.3319 Mbps
+  Mean delay:  1454.6 ms
+  Mean jitter:  1.6624 ms
+  Rx Packets: 2472
+Flow 10 (1.0.0.2:49162 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 31160
+  Tx Bytes:   32904960
+  TxOffered:  131.62 Mbps
+  Rx Bytes:   3220800
+  Throughput: 11.0524 Mbps
+  Mean delay:  1112.25 ms
+  Mean jitter:  1.16204 ms
+  Rx Packets: 3050
+Flow 11 (1.0.0.2:49163 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 30106
+  Tx Bytes:   31791936
+  TxOffered:  127.168 Mbps
+  Rx Bytes:   2582976
+  Throughput: 7.63364 Mbps
+  Mean delay:  1438.07 ms
+  Mean jitter:  1.3037 ms
+  Rx Packets: 2446
+Flow 12 (1.0.0.2:49164 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 29895
+  Tx Bytes:   31569120
+  TxOffered:  126.276 Mbps
+  Rx Bytes:   3314784
+  Throughput: 12.7047 Mbps
+  Mean delay:  983.002 ms
+  Mean jitter:  1.03901 ms
+  Rx Packets: 3139
+Flow 13 (1.0.0.2:49165 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 26172
+  Tx Bytes:   27637632
+  TxOffered:  110.551 Mbps
+  Rx Bytes:   2626272
+  Throughput: 8.242 Mbps
+  Mean delay:  1329.98 ms
+  Mean jitter:  1.21826 ms
+  Rx Packets: 2487
+Flow 14 (1.0.0.2:49166 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 24441
+  Tx Bytes:   25809696
+  TxOffered:  103.239 Mbps
+  Rx Bytes:   3171168
+  Throughput: 12.3452 Mbps
+  Mean delay:  957.322 ms
+  Mean jitter:  0.980706 ms
+  Rx Packets: 3003
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 38804
+  Tx Bytes:   40977024
+  TxOffered:  163.908 Mbps
+  Rx Bytes:   6534528
+  Throughput: 29.7439 Mbps
+  Mean delay:  280.688 ms
+  Mean jitter:  0.294024 ms
+  Rx Packets: 6188
+Flow 2 (12.0.0.1:49154 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 26970
+  Tx Bytes:   28480320
+  TxOffered:  113.921 Mbps
+  Rx Bytes:   1075008
+  Throughput: 7.18046 Mbps
+  Mean delay:  420.248 ms
+  Mean jitter:  1.47137 ms
+  Rx Packets: 1018
+--- List of associations (time and node id) ---
+0.600747 18 associate 00:00:00:00:00:0a
+0.601547 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.248s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 43160
+  Tx Bytes:   45576960
+  TxOffered:  182.308 Mbps
+  Rx Bytes:   2732928
+  Throughput: 5.80435 Mbps
+  Mean delay:  1502.62 ms
+  Mean jitter:  1.49919 ms
+  Rx Packets: 2588
+Flow 2 (1.0.0.2:49154 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 43033
+  Tx Bytes:   45442848
+  TxOffered:  181.771 Mbps
+  Rx Bytes:   2211264
+  Throughput: 4.69296 Mbps
+  Mean delay:  1647.01 ms
+  Mean jitter:  1.82617 ms
+  Rx Packets: 2094
+Flow 3 (1.0.0.2:49155 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 41991
+  Tx Bytes:   44342496
+  TxOffered:  177.37 Mbps
+  Rx Bytes:   1865952
+  Throughput: 4.01424 Mbps
+  Mean delay:  1529.83 ms
+  Mean jitter:  2.13195 ms
+  Rx Packets: 1767
+Flow 4 (1.0.0.2:49156 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 38441
+  Tx Bytes:   40593696
+  TxOffered:  162.375 Mbps
+  Rx Bytes:   1773024
+  Throughput: 3.9613 Mbps
+  Mean delay:  2213.3 ms
+  Mean jitter:  2.15988 ms
+  Rx Packets: 1679
+Flow 5 (1.0.0.2:49157 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 37453
+  Tx Bytes:   39550368
+  TxOffered:  158.201 Mbps
+  Rx Bytes:   1123584
+  Throughput: 2.54056 Mbps
+  Mean delay:  2314.88 ms
+  Mean jitter:  3.24077 ms
+  Rx Packets: 1064
+Flow 6 (1.0.0.2:49158 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 35968
+  Tx Bytes:   37982208
+  TxOffered:  151.929 Mbps
+  Rx Bytes:   1815264
+  Throughput: 4.17904 Mbps
+  Mean delay:  2155.39 ms
+  Mean jitter:  2.0148 ms
+  Rx Packets: 1719
+Flow 7 (1.0.0.2:49159 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 34069
+  Tx Bytes:   35976864
+  TxOffered:  143.907 Mbps
+  Rx Bytes:   6036096
+  Throughput: 21.0695 Mbps
+  Mean delay:  612.908 ms
+  Mean jitter:  0.615247 ms
+  Rx Packets: 5716
+Flow 8 (1.0.0.2:49160 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 32719
+  Tx Bytes:   34551264
+  TxOffered:  138.205 Mbps
+  Rx Bytes:   2080320
+  Throughput: 6.39022 Mbps
+  Mean delay:  1741.05 ms
+  Mean jitter:  1.83848 ms
+  Rx Packets: 1970
+Flow 9 (1.0.0.2:49161 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 32026
+  Tx Bytes:   33819456
+  TxOffered:  135.278 Mbps
+  Rx Bytes:   1331616
+  Throughput: 3.2156 Mbps
+  Mean delay:  2250.99 ms
+  Mean jitter:  2.54628 ms
+  Rx Packets: 1261
+Flow 10 (1.0.0.2:49162 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 31496
+  Tx Bytes:   33259776
+  TxOffered:  133.039 Mbps
+  Rx Bytes:   2003232
+  Throughput: 5.39027 Mbps
+  Mean delay:  2089.63 ms
+  Mean jitter:  2.08323 ms
+  Rx Packets: 1897
+Flow 11 (1.0.0.2:49163 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 29781
+  Tx Bytes:   31448736
+  TxOffered:  125.795 Mbps
+  Rx Bytes:   2315808
+  Throughput: 5.75608 Mbps
+  Mean delay:  1236.47 ms
+  Mean jitter:  1.67302 ms
+  Rx Packets: 2193
+Flow 12 (1.0.0.2:49164 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 28629
+  Tx Bytes:   30232224
+  TxOffered:  120.929 Mbps
+  Rx Bytes:   1190112
+  Throughput: 2.9985 Mbps
+  Mean delay:  2129.8 ms
+  Mean jitter:  2.79912 ms
+  Rx Packets: 1127
+Flow 13 (1.0.0.2:49165 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 26952
+  Tx Bytes:   28461312
+  TxOffered:  113.845 Mbps
+  Rx Bytes:   1071840
+  Throughput: 2.76402 Mbps
+  Mean delay:  2038.47 ms
+  Mean jitter:  3.06104 ms
+  Rx Packets: 1015
+Flow 14 (1.0.0.2:49166 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 24511
+  Tx Bytes:   25883616
+  TxOffered:  103.534 Mbps
+  Rx Bytes:   2219712
+  Throughput: 9.06532 Mbps
+  Mean delay:  1349.62 ms
+  Mean jitter:  1.33217 ms
+  Rx Packets: 2102
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 39028
+  Tx Bytes:   41213568
+  TxOffered:  164.854 Mbps
+  Rx Bytes:   5869248
+  Throughput: 24.2619 Mbps
+  Mean delay:  313.882 ms
+  Mean jitter:  0.525965 ms
+  Rx Packets: 5558
+Flow 2 (12.0.0.1:49154 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 25178
+  Tx Bytes:   26587968
+  TxOffered:  106.352 Mbps
+  Rx Bytes:   1056
+  Throughput: 0.00416711 Mbps
+  Mean delay:  2027.3 ms
+  Mean jitter:  0 ms
+  Rx Packets: 1
+--- List of associations (time and node id) ---
+0.600540 18 associate 00:00:00:00:00:0a
+1.200939 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.183s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 47967
+  Tx Bytes:   50653152
+  TxOffered:  202.613 Mbps
+  Rx Bytes:   5577792
+  Throughput: 12.6145 Mbps
+  Mean delay:  979.501 ms
+  Mean jitter:  0.99479 ms
+  Rx Packets: 5282
+Flow 2 (1.0.0.2:49154 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 44244
+  Tx Bytes:   46721664
+  TxOffered:  186.887 Mbps
+  Rx Bytes:   4317984
+  Throughput: 10.5888 Mbps
+  Mean delay:  1138.09 ms
+  Mean jitter:  1.11829 ms
+  Rx Packets: 4089
+Flow 3 (1.0.0.2:49155 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 44146
+  Tx Bytes:   46618176
+  TxOffered:  186.473 Mbps
+  Rx Bytes:   3196512
+  Throughput: 6.89411 Mbps
+  Mean delay:  1620.17 ms
+  Mean jitter:  1.70884 ms
+  Rx Packets: 3027
+Flow 4 (1.0.0.2:49156 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 43778
+  Tx Bytes:   46229568
+  TxOffered:  184.918 Mbps
+  Rx Bytes:   2313696
+  Throughput: 4.87847 Mbps
+  Mean delay:  2122.78 ms
+  Mean jitter:  2.07062 ms
+  Rx Packets: 2191
+Flow 5 (1.0.0.2:49157 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 41869
+  Tx Bytes:   44213664
+  TxOffered:  176.855 Mbps
+  Rx Bytes:   3694944
+  Throughput: 9.08792 Mbps
+  Mean delay:  1105.98 ms
+  Mean jitter:  1.30834 ms
+  Rx Packets: 3499
+Flow 6 (1.0.0.2:49158 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 39449
+  Tx Bytes:   41658144
+  TxOffered:  166.633 Mbps
+  Rx Bytes:   3947328
+  Throughput: 10.0182 Mbps
+  Mean delay:  1108.1 ms
+  Mean jitter:  1.20543 ms
+  Rx Packets: 3738
+Flow 7 (1.0.0.2:49159 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 39339
+  Tx Bytes:   41541984
+  TxOffered:  166.168 Mbps
+  Rx Bytes:   5991744
+  Throughput: 18.4391 Mbps
+  Mean delay:  710.397 ms
+  Mean jitter:  0.717651 ms
+  Rx Packets: 5674
+Flow 8 (1.0.0.2:49160 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 37999
+  Tx Bytes:   40126944
+  TxOffered:  160.508 Mbps
+  Rx Bytes:   1418208
+  Throughput: 3.18744 Mbps
+  Mean delay:  2163.86 ms
+  Mean jitter:  2.64397 ms
+  Rx Packets: 1343
+Flow 9 (1.0.0.2:49161 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 35967
+  Tx Bytes:   37981152
+  TxOffered:  151.925 Mbps
+  Rx Bytes:   1411872
+  Throughput: 3.30753 Mbps
+  Mean delay:  2044.61 ms
+  Mean jitter:  2.56243 ms
+  Rx Packets: 1337
+Flow 10 (1.0.0.2:49162 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 35310
+  Tx Bytes:   37287360
+  TxOffered:  149.149 Mbps
+  Rx Bytes:   3182784
+  Throughput: 7.96459 Mbps
+  Mean delay:  1427.31 ms
+  Mean jitter:  1.41821 ms
+  Rx Packets: 3014
+Flow 11 (1.0.0.2:49163 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 34132
+  Tx Bytes:   36043392
+  TxOffered:  144.174 Mbps
+  Rx Bytes:   2510112
+  Throughput: 5.90183 Mbps
+  Mean delay:  1908.46 ms
+  Mean jitter:  1.94839 ms
+  Rx Packets: 2377
+Flow 12 (1.0.0.2:49164 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 27330
+  Tx Bytes:   28860480
+  TxOffered:  115.442 Mbps
+  Rx Bytes:   3134208
+  Throughput: 9.58544 Mbps
+  Mean delay:  1242.74 ms
+  Mean jitter:  1.22687 ms
+  Rx Packets: 2968
+Flow 13 (1.0.0.2:49165 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 26360
+  Tx Bytes:   27836160
+  TxOffered:  111.345 Mbps
+  Rx Bytes:   3490080
+  Throughput: 14.3485 Mbps
+  Mean delay:  752.69 ms
+  Mean jitter:  0.827761 ms
+  Rx Packets: 3305
+Flow 14 (1.0.0.2:49166 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 25673
+  Tx Bytes:   27110688
+  TxOffered:  108.443 Mbps
+  Rx Bytes:   2778336
+  Throughput: 7.86324 Mbps
+  Mean delay:  1382.97 ms
+  Mean jitter:  1.37649 ms
+  Rx Packets: 2631
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 46153
+  Tx Bytes:   48737568
+  TxOffered:  194.95 Mbps
+  Rx Bytes:   3523872
+  Throughput: 12.4559 Mbps
+  Mean delay:  385.338 ms
+  Mean jitter:  1.02862 ms
+  Rx Packets: 3337
+Flow 2 (12.0.0.1:49154 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 32572
+  Tx Bytes:   34396032
+  TxOffered:  137.584 Mbps
+  Rx Bytes:   1043328
+  Throughput: 4.83342 Mbps
+  Mean delay:  450.29 ms
+  Mean jitter:  1.36493 ms
+  Rx Packets: 988
+--- List of associations (time and node id) ---
+0.600567 18 associate 00:00:00:00:00:0a
+0.601655 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.193s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 47686
+  Tx Bytes:   50356416
+  TxOffered:  201.426 Mbps
+  Rx Bytes:   4947360
+  Throughput: 11.773 Mbps
+  Mean delay:  1054.06 ms
+  Mean jitter:  1.06997 ms
+  Rx Packets: 4685
+Flow 2 (1.0.0.2:49154 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 47255
+  Tx Bytes:   49901280
+  TxOffered:  199.605 Mbps
+  Rx Bytes:   2141568
+  Throughput: 4.34605 Mbps
+  Mean delay:  2008.6 ms
+  Mean jitter:  2.01322 ms
+  Rx Packets: 2028
+Flow 3 (1.0.0.2:49155 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 46522
+  Tx Bytes:   49127232
+  TxOffered:  196.509 Mbps
+  Rx Bytes:   4070880
+  Throughput: 8.56586 Mbps
+  Mean delay:  1364.28 ms
+  Mean jitter:  1.35731 ms
+  Rx Packets: 3855
+Flow 4 (1.0.0.2:49156 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 45378
+  Tx Bytes:   47919168
+  TxOffered:  191.677 Mbps
+  Rx Bytes:   4920960
+  Throughput: 12.6914 Mbps
+  Mean delay:  988.327 ms
+  Mean jitter:  0.994985 ms
+  Rx Packets: 4660
+Flow 5 (1.0.0.2:49157 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 41147
+  Tx Bytes:   43451232
+  TxOffered:  173.805 Mbps
+  Rx Bytes:   4341216
+  Throughput: 13.556 Mbps
+  Mean delay:  881.012 ms
+  Mean jitter:  0.798676 ms
+  Rx Packets: 4111
+Flow 6 (1.0.0.2:49158 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 38900
+  Tx Bytes:   41078400
+  TxOffered:  164.314 Mbps
+  Rx Bytes:   4296864
+  Throughput: 10.2077 Mbps
+  Mean delay:  957.954 ms
+  Mean jitter:  1.11255 ms
+  Rx Packets: 4069
+Flow 7 (1.0.0.2:49159 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 34534
+  Tx Bytes:   36467904
+  TxOffered:  145.872 Mbps
+  Rx Bytes:   3114144
+  Throughput: 8.39109 Mbps
+  Mean delay:  1384.21 ms
+  Mean jitter:  1.44637 ms
+  Rx Packets: 2949
+Flow 8 (1.0.0.2:49160 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 34523
+  Tx Bytes:   36456288
+  TxOffered:  145.825 Mbps
+  Rx Bytes:   2967360
+  Throughput: 6.94408 Mbps
+  Mean delay:  1550.87 ms
+  Mean jitter:  1.55328 ms
+  Rx Packets: 2810
+Flow 9 (1.0.0.2:49161 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 34468
+  Tx Bytes:   36398208
+  TxOffered:  145.593 Mbps
+  Rx Bytes:   2614656
+  Throughput: 6.2119 Mbps
+  Mean delay:  1909 ms
+  Mean jitter:  1.89787 ms
+  Rx Packets: 2476
+Flow 10 (1.0.0.2:49162 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 31707
+  Tx Bytes:   33482592
+  TxOffered:  133.93 Mbps
+  Rx Bytes:   2553408
+  Throughput: 6.47913 Mbps
+  Mean delay:  1831.47 ms
+  Mean jitter:  1.77943 ms
+  Rx Packets: 2418
+Flow 11 (1.0.0.2:49163 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 28404
+  Tx Bytes:   29994624
+  TxOffered:  119.978 Mbps
+  Rx Bytes:   2963136
+  Throughput: 8.96237 Mbps
+  Mean delay:  1221.48 ms
+  Mean jitter:  1.23969 ms
+  Rx Packets: 2806
+Flow 12 (1.0.0.2:49164 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 28279
+  Tx Bytes:   29862624
+  TxOffered:  119.45 Mbps
+  Rx Bytes:   2142624
+  Throughput: 5.42813 Mbps
+  Mean delay:  1810.93 ms
+  Mean jitter:  1.81302 ms
+  Rx Packets: 2029
+Flow 13 (1.0.0.2:49165 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 27009
+  Tx Bytes:   28521504
+  TxOffered:  114.086 Mbps
+  Rx Bytes:   2273568
+  Throughput: 5.85291 Mbps
+  Mean delay:  1722.68 ms
+  Mean jitter:  1.6621 ms
+  Rx Packets: 2153
+Flow 14 (1.0.0.2:49166 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 25282
+  Tx Bytes:   26697792
+  TxOffered:  106.791 Mbps
+  Rx Bytes:   2514336
+  Throughput: 6.62416 Mbps
+  Mean delay:  1624.25 ms
+  Mean jitter:  1.56298 ms
+  Rx Packets: 2381
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 42899
+  Tx Bytes:   45301344
+  TxOffered:  181.205 Mbps
+  Rx Bytes:   3260928
+  Throughput: 13.9247 Mbps
+  Mean delay:  321.681 ms
+  Mean jitter:  0.700166 ms
+  Rx Packets: 3088
+Flow 2 (12.0.0.1:49154 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 29082
+  Tx Bytes:   30710592
+  TxOffered:  122.842 Mbps
+  Rx Bytes:   1287264
+  Throughput: 6.31343 Mbps
+  Mean delay:  498.456 ms
+  Mean jitter:  1.71416 ms
+  Rx Packets: 1219
+--- List of associations (time and node id) ---
+0.600310 18 associate 00:00:00:00:00:0a
+1.200842 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.197s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 44118
+  Tx Bytes:   46588608
+  TxOffered:  186.354 Mbps
+  Rx Bytes:   3219744
+  Throughput: 7.66576 Mbps
+  Mean delay:  1709.86 ms
+  Mean jitter:  1.6629 ms
+  Rx Packets: 3049
+Flow 2 (1.0.0.2:49154 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 43397
+  Tx Bytes:   45827232
+  TxOffered:  183.309 Mbps
+  Rx Bytes:   3592512
+  Throughput: 8.22921 Mbps
+  Mean delay:  1562.28 ms
+  Mean jitter:  1.48743 ms
+  Rx Packets: 3402
+Flow 3 (1.0.0.2:49155 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 43381
+  Tx Bytes:   45810336
+  TxOffered:  183.241 Mbps
+  Rx Bytes:   3663264
+  Throughput: 8.50241 Mbps
+  Mean delay:  1488.78 ms
+  Mean jitter:  1.4294 ms
+  Rx Packets: 3469
+Flow 4 (1.0.0.2:49156 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 42501
+  Tx Bytes:   44881056
+  TxOffered:  179.524 Mbps
+  Rx Bytes:   2957856
+  Throughput: 7.18878 Mbps
+  Mean delay:  1799.87 ms
+  Mean jitter:  1.73471 ms
+  Rx Packets: 2801
+Flow 5 (1.0.0.2:49157 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 40458
+  Tx Bytes:   42723648
+  TxOffered:  170.895 Mbps
+  Rx Bytes:   2263008
+  Throughput: 6.97756 Mbps
+  Mean delay:  1346.01 ms
+  Mean jitter:  1.85232 ms
+  Rx Packets: 2143
+Flow 6 (1.0.0.2:49158 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 37295
+  Tx Bytes:   39383520
+  TxOffered:  157.534 Mbps
+  Rx Bytes:   2374944
+  Throughput: 6.20583 Mbps
+  Mean delay:  2034.92 ms
+  Mean jitter:  1.96215 ms
+  Rx Packets: 2249
+Flow 7 (1.0.0.2:49159 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 36484
+  Tx Bytes:   38527104
+  TxOffered:  154.108 Mbps
+  Rx Bytes:   2680128
+  Throughput: 7.08982 Mbps
+  Mean delay:  1853.66 ms
+  Mean jitter:  1.71128 ms
+  Rx Packets: 2538
+Flow 8 (1.0.0.2:49160 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 34292
+  Tx Bytes:   36212352
+  TxOffered:  144.849 Mbps
+  Rx Bytes:   2006400
+  Throughput: 6.87989 Mbps
+  Mean delay:  1395.91 ms
+  Mean jitter:  1.6128 ms
+  Rx Packets: 1900
+Flow 9 (1.0.0.2:49161 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 33884
+  Tx Bytes:   35781504
+  TxOffered:  143.126 Mbps
+  Rx Bytes:   1763520
+  Throughput: 6.06985 Mbps
+  Mean delay:  1591.7 ms
+  Mean jitter:  1.94514 ms
+  Rx Packets: 1670
+Flow 10 (1.0.0.2:49162 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 31160
+  Tx Bytes:   32904960
+  TxOffered:  131.62 Mbps
+  Rx Bytes:   2675904
+  Throughput: 7.69135 Mbps
+  Mean delay:  1617.95 ms
+  Mean jitter:  1.54273 ms
+  Rx Packets: 2534
+Flow 11 (1.0.0.2:49163 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 30106
+  Tx Bytes:   31791936
+  TxOffered:  127.168 Mbps
+  Rx Bytes:   4174368
+  Throughput: 16.7314 Mbps
+  Mean delay:  746.049 ms
+  Mean jitter:  0.691055 ms
+  Rx Packets: 3953
+Flow 12 (1.0.0.2:49164 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 29895
+  Tx Bytes:   31569120
+  TxOffered:  126.276 Mbps
+  Rx Bytes:   2435136
+  Throughput: 7.6538 Mbps
+  Mean delay:  1691.98 ms
+  Mean jitter:  1.5569 ms
+  Rx Packets: 2306
+Flow 13 (1.0.0.2:49165 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 26172
+  Tx Bytes:   27637632
+  TxOffered:  110.551 Mbps
+  Rx Bytes:   2663232
+  Throughput: 10.6734 Mbps
+  Mean delay:  956.888 ms
+  Mean jitter:  1.11066 ms
+  Rx Packets: 2522
+Flow 14 (1.0.0.2:49166 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 24441
+  Tx Bytes:   25809696
+  TxOffered:  103.239 Mbps
+  Rx Bytes:   2644224
+  Throughput: 8.58169 Mbps
+  Mean delay:  1396.76 ms
+  Mean jitter:  1.3153 ms
+  Rx Packets: 2504
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 38804
+  Tx Bytes:   40977024
+  TxOffered:  163.908 Mbps
+  Rx Bytes:   10172448
+  Throughput: 38.978 Mbps
+  Mean delay:  382.333 ms
+  Mean jitter:  0.312391 ms
+  Rx Packets: 9633
+Flow 2 (12.0.0.1:49154 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 26970
+  Tx Bytes:   28480320
+  TxOffered:  113.921 Mbps
+  Rx Bytes:   0
+  Throughput:  0 Mbps
+  Mean delay:  0 ms
+  Mean jitter: 0 ms
+  Rx Packets: 0
+--- List of associations (time and node id) ---
+0.600747 18 associate 00:00:00:00:00:0a
+0.601547 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.199s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 43160
+  Tx Bytes:   45576960
+  TxOffered:  182.308 Mbps
+  Rx Bytes:   3932544
+  Throughput: 8.60341 Mbps
+  Mean delay:  1484.06 ms
+  Mean jitter:  1.42081 ms
+  Rx Packets: 3724
+Flow 2 (1.0.0.2:49154 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 43033
+  Tx Bytes:   45442848
+  TxOffered:  181.771 Mbps
+  Rx Bytes:   3685440
+  Throughput: 7.95025 Mbps
+  Mean delay:  1611.65 ms
+  Mean jitter:  1.53236 ms
+  Rx Packets: 3490
+Flow 3 (1.0.0.2:49155 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 41991
+  Tx Bytes:   44342496
+  TxOffered:  177.37 Mbps
+  Rx Bytes:   3510144
+  Throughput: 7.61903 Mbps
+  Mean delay:  1699.42 ms
+  Mean jitter:  1.60292 ms
+  Rx Packets: 3324
+Flow 4 (1.0.0.2:49156 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 38441
+  Tx Bytes:   40593696
+  TxOffered:  162.375 Mbps
+  Rx Bytes:   2992704
+  Throughput: 6.83912 Mbps
+  Mean delay:  1826.41 ms
+  Mean jitter:  1.75492 ms
+  Rx Packets: 2834
+Flow 5 (1.0.0.2:49157 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 37453
+  Tx Bytes:   39550368
+  TxOffered:  158.201 Mbps
+  Rx Bytes:   2782560
+  Throughput: 6.43726 Mbps
+  Mean delay:  1939.61 ms
+  Mean jitter:  1.83759 ms
+  Rx Packets: 2635
+Flow 6 (1.0.0.2:49158 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 35968
+  Tx Bytes:   37982208
+  TxOffered:  151.929 Mbps
+  Rx Bytes:   2993760
+  Throughput: 7.46576 Mbps
+  Mean delay:  1619.08 ms
+  Mean jitter:  1.60876 ms
+  Rx Packets: 2835
+Flow 7 (1.0.0.2:49159 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 34069
+  Tx Bytes:   35976864
+  TxOffered:  143.907 Mbps
+  Rx Bytes:   5217696
+  Throughput: 19.9065 Mbps
+  Mean delay:  647.458 ms
+  Mean jitter:  0.677418 ms
+  Rx Packets: 4941
+Flow 8 (1.0.0.2:49160 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 32719
+  Tx Bytes:   34551264
+  TxOffered:  138.205 Mbps
+  Rx Bytes:   2304192
+  Throughput: 5.58527 Mbps
+  Mean delay:  2277.94 ms
+  Mean jitter:  2.06314 ms
+  Rx Packets: 2182
+Flow 9 (1.0.0.2:49161 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 32026
+  Tx Bytes:   33819456
+  TxOffered:  135.278 Mbps
+  Rx Bytes:   2437248
+  Throughput: 6.04234 Mbps
+  Mean delay:  2039.89 ms
+  Mean jitter:  1.89837 ms
+  Rx Packets: 2308
+Flow 10 (1.0.0.2:49162 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 31496
+  Tx Bytes:   33259776
+  TxOffered:  133.039 Mbps
+  Rx Bytes:   2513280
+  Throughput: 8.10373 Mbps
+  Mean delay:  1493.5 ms
+  Mean jitter:  1.43474 ms
+  Rx Packets: 2380
+Flow 11 (1.0.0.2:49163 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 29781
+  Tx Bytes:   31448736
+  TxOffered:  125.795 Mbps
+  Rx Bytes:   2194368
+  Throughput: 5.44578 Mbps
+  Mean delay:  1968.4 ms
+  Mean jitter:  1.89131 ms
+  Rx Packets: 2078
+Flow 12 (1.0.0.2:49164 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 28629
+  Tx Bytes:   30232224
+  TxOffered:  120.929 Mbps
+  Rx Bytes:   2194368
+  Throughput: 5.60822 Mbps
+  Mean delay:  2195.37 ms
+  Mean jitter:  2.04797 ms
+  Rx Packets: 2078
+Flow 13 (1.0.0.2:49165 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 26952
+  Tx Bytes:   28461312
+  TxOffered:  113.845 Mbps
+  Rx Bytes:   2153184
+  Throughput: 5.54362 Mbps
+  Mean delay:  2263.1 ms
+  Mean jitter:  2.02736 ms
+  Rx Packets: 2039
+Flow 14 (1.0.0.2:49166 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 24511
+  Tx Bytes:   25883616
+  TxOffered:  103.534 Mbps
+  Rx Bytes:   2958912
+  Throughput: 12.6324 Mbps
+  Mean delay:  1015.44 ms
+  Mean jitter:  0.929611 ms
+  Rx Packets: 2802
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 39028
+  Tx Bytes:   41213568
+  TxOffered:  164.854 Mbps
+  Rx Bytes:   4178592
+  Throughput: 15.8678 Mbps
+  Mean delay:  381.174 ms
+  Mean jitter:  0.828839 ms
+  Rx Packets: 3957
+Flow 2 (12.0.0.1:49154 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 25178
+  Tx Bytes:   26587968
+  TxOffered:  106.352 Mbps
+  Rx Bytes:   0
+  Throughput:  0 Mbps
+  Mean delay:  0 ms
+  Mean jitter: 0 ms
+  Rx Packets: 0
+--- List of associations (time and node id) ---
+0.600540 18 associate 00:00:00:00:00:0a
+1.200939 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.191s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 47967
+  Tx Bytes:   50653152
+  TxOffered:  202.613 Mbps
+  Rx Bytes:   5616864
+  Throughput: 13.203 Mbps
+  Mean delay:  982.201 ms
+  Mean jitter:  0.972176 ms
+  Rx Packets: 5319
+Flow 2 (1.0.0.2:49154 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 44244
+  Tx Bytes:   46721664
+  TxOffered:  186.887 Mbps
+  Rx Bytes:   4642176
+  Throughput: 12.0369 Mbps
+  Mean delay:  1092.47 ms
+  Mean jitter:  1.06778 ms
+  Rx Packets: 4396
+Flow 3 (1.0.0.2:49155 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 44146
+  Tx Bytes:   46618176
+  TxOffered:  186.473 Mbps
+  Rx Bytes:   2697024
+  Throughput: 6.67112 Mbps
+  Mean delay:  1851.33 ms
+  Mean jitter:  1.94506 ms
+  Rx Packets: 2554
+Flow 4 (1.0.0.2:49156 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 43778
+  Tx Bytes:   46229568
+  TxOffered:  184.918 Mbps
+  Rx Bytes:   2792064
+  Throughput: 6.70336 Mbps
+  Mean delay:  1894.27 ms
+  Mean jitter:  1.88721 ms
+  Rx Packets: 2644
+Flow 5 (1.0.0.2:49157 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 41869
+  Tx Bytes:   44213664
+  TxOffered:  176.855 Mbps
+  Rx Bytes:   2884992
+  Throughput: 6.85552 Mbps
+  Mean delay:  1927.81 ms
+  Mean jitter:  1.82348 ms
+  Rx Packets: 2732
+Flow 6 (1.0.0.2:49158 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 39449
+  Tx Bytes:   41658144
+  TxOffered:  166.633 Mbps
+  Rx Bytes:   4821696
+  Throughput: 14.3336 Mbps
+  Mean delay:  902.899 ms
+  Mean jitter:  0.894443 ms
+  Rx Packets: 4566
+Flow 7 (1.0.0.2:49159 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 39339
+  Tx Bytes:   41541984
+  TxOffered:  166.168 Mbps
+  Rx Bytes:   6245184
+  Throughput: 20.6488 Mbps
+  Mean delay:  642.715 ms
+  Mean jitter:  0.648992 ms
+  Rx Packets: 5914
+Flow 8 (1.0.0.2:49160 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 37999
+  Tx Bytes:   40126944
+  TxOffered:  160.508 Mbps
+  Rx Bytes:   2332704
+  Throughput: 5.31597 Mbps
+  Mean delay:  2526.4 ms
+  Mean jitter:  2.13457 ms
+  Rx Packets: 2209
+Flow 9 (1.0.0.2:49161 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 35967
+  Tx Bytes:   37981152
+  TxOffered:  151.925 Mbps
+  Rx Bytes:   2488992
+  Throughput: 6.43373 Mbps
+  Mean delay:  1986.97 ms
+  Mean jitter:  1.9174 ms
+  Rx Packets: 2357
+Flow 10 (1.0.0.2:49162 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 35310
+  Tx Bytes:   37287360
+  TxOffered:  149.149 Mbps
+  Rx Bytes:   3396096
+  Throughput: 9.48652 Mbps
+  Mean delay:  1298.11 ms
+  Mean jitter:  1.29477 ms
+  Rx Packets: 3216
+Flow 11 (1.0.0.2:49163 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 34132
+  Tx Bytes:   36043392
+  TxOffered:  144.174 Mbps
+  Rx Bytes:   2566080
+  Throughput: 6.97664 Mbps
+  Mean delay:  1772.04 ms
+  Mean jitter:  1.75323 ms
+  Rx Packets: 2430
+Flow 12 (1.0.0.2:49164 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 27330
+  Tx Bytes:   28860480
+  TxOffered:  115.442 Mbps
+  Rx Bytes:   3674880
+  Throughput: 13.3704 Mbps
+  Mean delay:  917.391 ms
+  Mean jitter:  0.915008 ms
+  Rx Packets: 3480
+Flow 13 (1.0.0.2:49165 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 26360
+  Tx Bytes:   27836160
+  TxOffered:  111.345 Mbps
+  Rx Bytes:   4981152
+  Throughput: 22.8902 Mbps
+  Mean delay:  550.065 ms
+  Mean jitter:  0.59108 ms
+  Rx Packets: 4717
+Flow 14 (1.0.0.2:49166 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 25673
+  Tx Bytes:   27110688
+  TxOffered:  108.443 Mbps
+  Rx Bytes:   2305248
+  Throughput: 7.56855 Mbps
+  Mean delay:  1531.77 ms
+  Mean jitter:  1.48638 ms
+  Rx Packets: 2183
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 46153
+  Tx Bytes:   48737568
+  TxOffered:  194.95 Mbps
+  Rx Bytes:   7392
+  Throughput: 0.623369 Mbps
+  Mean delay:  94.5387 ms
+  Mean jitter:  0.022776 ms
+  Rx Packets: 7
+Flow 2 (12.0.0.1:49154 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 32572
+  Tx Bytes:   34396032
+  TxOffered:  137.584 Mbps
+  Rx Bytes:   0
+  Throughput:  0 Mbps
+  Mean delay:  0 ms
+  Mean jitter: 0 ms
+  Rx Packets: 0
+--- List of associations (time and node id) ---
+0.600567 18 associate 00:00:00:00:00:0a
+0.601655 17 associate 00:00:00:00:00:0a
+2.914768 17 deassociate 00:00:00:00:00:0a
+4.977124 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.178s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 47686
+  Tx Bytes:   50356416
+  TxOffered:  201.426 Mbps
+  Rx Bytes:   7025568
+  Throughput: 20.8642 Mbps
+  Mean delay:  648.177 ms
+  Mean jitter:  0.658143 ms
+  Rx Packets: 6653
+Flow 2 (1.0.0.2:49154 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 47255
+  Tx Bytes:   49901280
+  TxOffered:  199.605 Mbps
+  Rx Bytes:   3332736
+  Throughput: 7.66565 Mbps
+  Mean delay:  1719.66 ms
+  Mean jitter:  1.65245 ms
+  Rx Packets: 3156
+Flow 3 (1.0.0.2:49155 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 46522
+  Tx Bytes:   49127232
+  TxOffered:  196.509 Mbps
+  Rx Bytes:   3837504
+  Throughput: 9.06687 Mbps
+  Mean delay:  1425.49 ms
+  Mean jitter:  1.4145 ms
+  Rx Packets: 3634
+Flow 4 (1.0.0.2:49156 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 45378
+  Tx Bytes:   47919168
+  TxOffered:  191.677 Mbps
+  Rx Bytes:   7111104
+  Throughput: 22.1623 Mbps
+  Mean delay:  612.338 ms
+  Mean jitter:  0.618159 ms
+  Rx Packets: 6734
+Flow 5 (1.0.0.2:49157 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 41147
+  Tx Bytes:   43451232
+  TxOffered:  173.805 Mbps
+  Rx Bytes:   5605248
+  Throughput: 18.9451 Mbps
+  Mean delay:  698.058 ms
+  Mean jitter:  0.741297 ms
+  Rx Packets: 5308
+Flow 6 (1.0.0.2:49158 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 38900
+  Tx Bytes:   41078400
+  TxOffered:  164.314 Mbps
+  Rx Bytes:   3722400
+  Throughput: 9.55514 Mbps
+  Mean delay:  1315.49 ms
+  Mean jitter:  1.20576 ms
+  Rx Packets: 3525
+Flow 7 (1.0.0.2:49159 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 34534
+  Tx Bytes:   36467904
+  TxOffered:  145.872 Mbps
+  Rx Bytes:   4587264
+  Throughput: 16.5307 Mbps
+  Mean delay:  790.447 ms
+  Mean jitter:  0.817601 ms
+  Rx Packets: 4344
+Flow 8 (1.0.0.2:49160 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 34523
+  Tx Bytes:   36456288
+  TxOffered:  145.825 Mbps
+  Rx Bytes:   2808960
+  Throughput: 7.40277 Mbps
+  Mean delay:  1764.79 ms
+  Mean jitter:  1.60986 ms
+  Rx Packets: 2660
+Flow 9 (1.0.0.2:49161 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 34468
+  Tx Bytes:   36398208
+  TxOffered:  145.593 Mbps
+  Rx Bytes:   2708640
+  Throughput: 7.33978 Mbps
+  Mean delay:  1722.14 ms
+  Mean jitter:  1.65732 ms
+  Rx Packets: 2565
+Flow 10 (1.0.0.2:49162 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 31707
+  Tx Bytes:   33482592
+  TxOffered:  133.93 Mbps
+  Rx Bytes:   2686464
+  Throughput: 7.57076 Mbps
+  Mean delay:  1662.1 ms
+  Mean jitter:  1.59909 ms
+  Rx Packets: 2544
+Flow 11 (1.0.0.2:49163 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 28404
+  Tx Bytes:   29994624
+  TxOffered:  119.978 Mbps
+  Rx Bytes:   3991680
+  Throughput: 16.343 Mbps
+  Mean delay:  698.962 ms
+  Mean jitter:  0.747995 ms
+  Rx Packets: 3780
+Flow 12 (1.0.0.2:49164 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 28279
+  Tx Bytes:   29862624
+  TxOffered:  119.45 Mbps
+  Rx Bytes:   2390784
+  Throughput: 6.82397 Mbps
+  Mean delay:  1933.8 ms
+  Mean jitter:  1.70603 ms
+  Rx Packets: 2264
+Flow 13 (1.0.0.2:49165 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 27009
+  Tx Bytes:   28521504
+  TxOffered:  114.086 Mbps
+  Rx Bytes:   2645280
+  Throughput: 8.07224 Mbps
+  Mean delay:  1519.18 ms
+  Mean jitter:  1.42129 ms
+  Rx Packets: 2505
+Flow 14 (1.0.0.2:49166 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 25282
+  Tx Bytes:   26697792
+  TxOffered:  106.791 Mbps
+  Rx Bytes:   2718144
+  Throughput: 8.67528 Mbps
+  Mean delay:  1388.98 ms
+  Mean jitter:  1.24758 ms
+  Rx Packets: 2574
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 42899
+  Tx Bytes:   45301344
+  TxOffered:  181.205 Mbps
+  Rx Bytes:   1798368
+  Throughput: 14.3077 Mbps
+  Mean delay:  320.691 ms
+  Mean jitter:  0.831043 ms
+  Rx Packets: 1703
+Flow 2 (12.0.0.1:49154 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 29082
+  Tx Bytes:   30710592
+  TxOffered:  122.842 Mbps
+  Rx Bytes:   739200
+  Throughput: 3.86367 Mbps
+  Mean delay:  498.104 ms
+  Mean jitter:  2.34781 ms
+  Rx Packets: 700
+--- List of associations (time and node id) ---
+0.600310 18 associate 00:00:00:00:00:0a
+1.200842 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.171s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 44118
+  Tx Bytes:   46588608
+  TxOffered:  186.354 Mbps
+  Rx Bytes:   4152192
+  Throughput: 10.8905 Mbps
+  Mean delay:  1137.08 ms
+  Mean jitter:  1.19138 ms
+  Rx Packets: 3932
+Flow 2 (1.0.0.2:49154 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 43397
+  Tx Bytes:   45827232
+  TxOffered:  183.309 Mbps
+  Rx Bytes:   3059232
+  Throughput: 7.48334 Mbps
+  Mean delay:  1816.75 ms
+  Mean jitter:  1.69582 ms
+  Rx Packets: 2897
+Flow 3 (1.0.0.2:49155 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 43381
+  Tx Bytes:   45810336
+  TxOffered:  183.241 Mbps
+  Rx Bytes:   3155328
+  Throughput: 7.83981 Mbps
+  Mean delay:  1695.21 ms
+  Mean jitter:  1.61831 ms
+  Rx Packets: 2988
+Flow 4 (1.0.0.2:49156 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 42501
+  Tx Bytes:   44881056
+  TxOffered:  179.524 Mbps
+  Rx Bytes:   3632640
+  Throughput: 9.73365 Mbps
+  Mean delay:  1243.89 ms
+  Mean jitter:  1.3297 ms
+  Rx Packets: 3440
+Flow 5 (1.0.0.2:49157 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 40458
+  Tx Bytes:   42723648
+  TxOffered:  170.895 Mbps
+  Rx Bytes:   2431968
+  Throughput: 7.81477 Mbps
+  Mean delay:  1192.83 ms
+  Mean jitter:  1.74648 ms
+  Rx Packets: 2303
+Flow 6 (1.0.0.2:49158 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 37295
+  Tx Bytes:   39383520
+  TxOffered:  157.534 Mbps
+  Rx Bytes:   4745664
+  Throughput: 14.1896 Mbps
+  Mean delay:  878.948 ms
+  Mean jitter:  0.888496 ms
+  Rx Packets: 4494
+Flow 7 (1.0.0.2:49159 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 36484
+  Tx Bytes:   38527104
+  TxOffered:  154.108 Mbps
+  Rx Bytes:   4767840
+  Throughput: 14.4963 Mbps
+  Mean delay:  847.733 ms
+  Mean jitter:  0.860182 ms
+  Rx Packets: 4515
+Flow 8 (1.0.0.2:49160 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 34292
+  Tx Bytes:   36212352
+  TxOffered:  144.849 Mbps
+  Rx Bytes:   5959008
+  Throughput: 23.368 Mbps
+  Mean delay:  550.167 ms
+  Mean jitter:  0.521254 ms
+  Rx Packets: 5643
+Flow 9 (1.0.0.2:49161 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 33884
+  Tx Bytes:   35781504
+  TxOffered:  143.126 Mbps
+  Rx Bytes:   2690688
+  Throughput: 8.17434 Mbps
+  Mean delay:  1470.83 ms
+  Mean jitter:  1.4971 ms
+  Rx Packets: 2548
+Flow 10 (1.0.0.2:49162 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 31160
+  Tx Bytes:   32904960
+  TxOffered:  131.62 Mbps
+  Rx Bytes:   2797344
+  Throughput: 8.8971 Mbps
+  Mean delay:  1343.61 ms
+  Mean jitter:  1.38884 ms
+  Rx Packets: 2649
+Flow 11 (1.0.0.2:49163 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 30106
+  Tx Bytes:   31791936
+  TxOffered:  127.168 Mbps
+  Rx Bytes:   8440608
+  Throughput: 40.0994 Mbps
+  Mean delay:  349.497 ms
+  Mean jitter:  0.342861 ms
+  Rx Packets: 7993
+Flow 12 (1.0.0.2:49164 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 29895
+  Tx Bytes:   31569120
+  TxOffered:  126.276 Mbps
+  Rx Bytes:   4730880
+  Throughput: 16.583 Mbps
+  Mean delay:  749.082 ms
+  Mean jitter:  0.777025 ms
+  Rx Packets: 4480
+Flow 13 (1.0.0.2:49165 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 26172
+  Tx Bytes:   27637632
+  TxOffered:  110.551 Mbps
+  Rx Bytes:   5197632
+  Throughput: 23.0729 Mbps
+  Mean delay:  440.176 ms
+  Mean jitter:  0.481535 ms
+  Rx Packets: 4922
+Flow 14 (1.0.0.2:49166 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 24441
+  Tx Bytes:   25809696
+  TxOffered:  103.239 Mbps
+  Rx Bytes:   3342240
+  Throughput: 12.1758 Mbps
+  Mean delay:  966.507 ms
+  Mean jitter:  0.978461 ms
+  Rx Packets: 3165
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 38804
+  Tx Bytes:   40977024
+  TxOffered:  163.908 Mbps
+  Rx Bytes:   10140768
+  Throughput: 40.1722 Mbps
+  Mean delay:  375.61 ms
+  Mean jitter:  0.305225 ms
+  Rx Packets: 9603
+Flow 2 (12.0.0.1:49154 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 26970
+  Tx Bytes:   28480320
+  TxOffered:  113.921 Mbps
+  Rx Bytes:   1056
+  Throughput: 0.00523875 Mbps
+  Mean delay:  1612.6 ms
+  Mean jitter:  0 ms
+  Rx Packets: 1
+--- List of associations (time and node id) ---
+0.600747 18 associate 00:00:00:00:00:0a
+0.601547 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.365s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 43160
+  Tx Bytes:   45576960
+  TxOffered:  182.308 Mbps
+  Rx Bytes:   6295872
+  Throughput: 18.4108 Mbps
+  Mean delay:  693.473 ms
+  Mean jitter:  0.727608 ms
+  Rx Packets: 5962
+Flow 2 (1.0.0.2:49154 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 43033
+  Tx Bytes:   45442848
+  TxOffered:  181.771 Mbps
+  Rx Bytes:   4824864
+  Throughput: 11.5066 Mbps
+  Mean delay:  1091.46 ms
+  Mean jitter:  1.09723 ms
+  Rx Packets: 4569
+Flow 3 (1.0.0.2:49155 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 41991
+  Tx Bytes:   44342496
+  TxOffered:  177.37 Mbps
+  Rx Bytes:   4669632
+  Throughput: 11.4289 Mbps
+  Mean delay:  1124.34 ms
+  Mean jitter:  1.10941 ms
+  Rx Packets: 4422
+Flow 4 (1.0.0.2:49156 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 38441
+  Tx Bytes:   40593696
+  TxOffered:  162.375 Mbps
+  Rx Bytes:   4183872
+  Throughput: 11.1285 Mbps
+  Mean delay:  1008.93 ms
+  Mean jitter:  1.11542 ms
+  Rx Packets: 3962
+Flow 5 (1.0.0.2:49157 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 37453
+  Tx Bytes:   39550368
+  TxOffered:  158.201 Mbps
+  Rx Bytes:   4377120
+  Throughput: 12.6732 Mbps
+  Mean delay:  940.348 ms
+  Mean jitter:  0.984429 ms
+  Rx Packets: 4145
+Flow 6 (1.0.0.2:49158 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 35968
+  Tx Bytes:   37982208
+  TxOffered:  151.929 Mbps
+  Rx Bytes:   5806944
+  Throughput: 19.462 Mbps
+  Mean delay:  655.357 ms
+  Mean jitter:  0.699135 ms
+  Rx Packets: 5499
+Flow 7 (1.0.0.2:49159 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 34069
+  Tx Bytes:   35976864
+  TxOffered:  143.907 Mbps
+  Rx Bytes:   4291584
+  Throughput: 12.8834 Mbps
+  Mean delay:  905.248 ms
+  Mean jitter:  0.945868 ms
+  Rx Packets: 4064
+Flow 8 (1.0.0.2:49160 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 32719
+  Tx Bytes:   34551264
+  TxOffered:  138.205 Mbps
+  Rx Bytes:   3206016
+  Throughput: 8.87668 Mbps
+  Mean delay:  1391.98 ms
+  Mean jitter:  1.36035 ms
+  Rx Packets: 3036
+Flow 9 (1.0.0.2:49161 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 32026
+  Tx Bytes:   33819456
+  TxOffered:  135.278 Mbps
+  Rx Bytes:   3464736
+  Throughput: 10.0796 Mbps
+  Mean delay:  1254.17 ms
+  Mean jitter:  1.21821 ms
+  Rx Packets: 3281
+Flow 10 (1.0.0.2:49162 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 31496
+  Tx Bytes:   33259776
+  TxOffered:  133.039 Mbps
+  Rx Bytes:   3465792
+  Throughput: 10.1558 Mbps
+  Mean delay:  1169.51 ms
+  Mean jitter:  1.18258 ms
+  Rx Packets: 3282
+Flow 11 (1.0.0.2:49163 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 29781
+  Tx Bytes:   31448736
+  TxOffered:  125.795 Mbps
+  Rx Bytes:   2681184
+  Throughput: 7.31418 Mbps
+  Mean delay:  1733.33 ms
+  Mean jitter:  1.61658 ms
+  Rx Packets: 2539
+Flow 12 (1.0.0.2:49164 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 28629
+  Tx Bytes:   30232224
+  TxOffered:  120.929 Mbps
+  Rx Bytes:   3319008
+  Throughput: 10.053 Mbps
+  Mean delay:  1193.94 ms
+  Mean jitter:  1.17157 ms
+  Rx Packets: 3143
+Flow 13 (1.0.0.2:49165 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 26952
+  Tx Bytes:   28461312
+  TxOffered:  113.845 Mbps
+  Rx Bytes:   3548160
+  Throughput: 12.2231 Mbps
+  Mean delay:  898.758 ms
+  Mean jitter:  0.972595 ms
+  Rx Packets: 3360
+Flow 14 (1.0.0.2:49166 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 24511
+  Tx Bytes:   25883616
+  TxOffered:  103.534 Mbps
+  Rx Bytes:   2776224
+  Throughput: 8.63569 Mbps
+  Mean delay:  1347.53 ms
+  Mean jitter:  1.27959 ms
+  Rx Packets: 2629
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 39028
+  Tx Bytes:   41213568
+  TxOffered:  164.854 Mbps
+  Rx Bytes:   2611488
+  Throughput: 10.5967 Mbps
+  Mean delay:  393.046 ms
+  Mean jitter:  1.31955 ms
+  Rx Packets: 2473
+Flow 2 (12.0.0.1:49154 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 25178
+  Tx Bytes:   26587968
+  TxOffered:  106.352 Mbps
+  Rx Bytes:   1056
+  Throughput: 0.00442448 Mbps
+  Mean delay:  1909.38 ms
+  Mean jitter:  0 ms
+  Rx Packets: 1
+--- List of associations (time and node id) ---
+0.600540 18 associate 00:00:00:00:00:0a
+1.200939 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.257s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 47967
+  Tx Bytes:   50653152
+  TxOffered:  202.613 Mbps
+  Rx Bytes:   6757344
+  Throughput: 18.3163 Mbps
+  Mean delay:  711.5 ms
+  Mean jitter:  0.739685 ms
+  Rx Packets: 6399
+Flow 2 (1.0.0.2:49154 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 44244
+  Tx Bytes:   46721664
+  TxOffered:  186.887 Mbps
+  Rx Bytes:   5576736
+  Throughput: 14.6117 Mbps
+  Mean delay:  888.517 ms
+  Mean jitter:  0.906625 ms
+  Rx Packets: 5281
+Flow 3 (1.0.0.2:49155 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 44146
+  Tx Bytes:   46618176
+  TxOffered:  186.473 Mbps
+  Rx Bytes:   2982144
+  Throughput: 7.16158 Mbps
+  Mean delay:  1887.49 ms
+  Mean jitter:  1.79146 ms
+  Rx Packets: 2824
+Flow 4 (1.0.0.2:49156 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 43778
+  Tx Bytes:   46229568
+  TxOffered:  184.918 Mbps
+  Rx Bytes:   3495360
+  Throughput: 8.53272 Mbps
+  Mean delay:  1529.91 ms
+  Mean jitter:  1.48019 ms
+  Rx Packets: 3310
+Flow 5 (1.0.0.2:49157 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 41869
+  Tx Bytes:   44213664
+  TxOffered:  176.855 Mbps
+  Rx Bytes:   2851200
+  Throughput: 6.87322 Mbps
+  Mean delay:  1963.63 ms
+  Mean jitter:  1.7969 ms
+  Rx Packets: 2700
+Flow 6 (1.0.0.2:49158 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 39449
+  Tx Bytes:   41658144
+  TxOffered:  166.633 Mbps
+  Rx Bytes:   11406912
+  Throughput: 45.1952 Mbps
+  Mean delay:  313.331 ms
+  Mean jitter:  0.331919 ms
+  Rx Packets: 10802
+Flow 7 (1.0.0.2:49159 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 39339
+  Tx Bytes:   41541984
+  TxOffered:  166.168 Mbps
+  Rx Bytes:   6478560
+  Throughput: 22.9271 Mbps
+  Mean delay:  610.35 ms
+  Mean jitter:  0.595596 ms
+  Rx Packets: 6135
+Flow 8 (1.0.0.2:49160 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 37999
+  Tx Bytes:   40126944
+  TxOffered:  160.508 Mbps
+  Rx Bytes:   2312640
+  Throughput: 5.32179 Mbps
+  Mean delay:  2622.15 ms
+  Mean jitter:  2.26581 ms
+  Rx Packets: 2190
+Flow 9 (1.0.0.2:49161 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 35967
+  Tx Bytes:   37981152
+  TxOffered:  151.925 Mbps
+  Rx Bytes:   3169056
+  Throughput: 8.55656 Mbps
+  Mean delay:  1487.94 ms
+  Mean jitter:  1.43562 ms
+  Rx Packets: 3001
+Flow 10 (1.0.0.2:49162 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 35310
+  Tx Bytes:   37287360
+  TxOffered:  149.149 Mbps
+  Rx Bytes:   3503808
+  Throughput: 9.72965 Mbps
+  Mean delay:  1299.03 ms
+  Mean jitter:  1.26235 ms
+  Rx Packets: 3318
+Flow 11 (1.0.0.2:49163 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 34132
+  Tx Bytes:   36043392
+  TxOffered:  144.174 Mbps
+  Rx Bytes:   3109920
+  Throughput: 8.64322 Mbps
+  Mean delay:  1457.15 ms
+  Mean jitter:  1.40828 ms
+  Rx Packets: 2945
+Flow 12 (1.0.0.2:49164 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 27330
+  Tx Bytes:   28860480
+  TxOffered:  115.442 Mbps
+  Rx Bytes:   6565152
+  Throughput: 32.265 Mbps
+  Mean delay:  409.828 ms
+  Mean jitter:  0.41906 ms
+  Rx Packets: 6217
+Flow 13 (1.0.0.2:49165 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 26360
+  Tx Bytes:   27836160
+  TxOffered:  111.345 Mbps
+  Rx Bytes:   4418304
+  Throughput: 16.7926 Mbps
+  Mean delay:  695.542 ms
+  Mean jitter:  0.755941 ms
+  Rx Packets: 4184
+Flow 14 (1.0.0.2:49166 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 25673
+  Tx Bytes:   27110688
+  TxOffered:  108.443 Mbps
+  Rx Bytes:   2117280
+  Throughput: 6.53568 Mbps
+  Mean delay:  1950.42 ms
+  Mean jitter:  1.78542 ms
+  Rx Packets: 2005
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 46153
+  Tx Bytes:   48737568
+  TxOffered:  194.95 Mbps
+  Rx Bytes:   388608
+  Throughput: 3.97507 Mbps
+  Mean delay:  293.342 ms
+  Mean jitter:  3.22371 ms
+  Rx Packets: 368
+Flow 2 (12.0.0.1:49154 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 32572
+  Tx Bytes:   34396032
+  TxOffered:  137.584 Mbps
+  Rx Bytes:   0
+  Throughput:  0 Mbps
+  Mean delay:  0 ms
+  Mean jitter: 0 ms
+  Rx Packets: 0
+--- List of associations (time and node id) ---
+0.600567 18 associate 00:00:00:00:00:0a
+0.601655 17 associate 00:00:00:00:00:0a
+3.633212 17 deassociate 00:00:00:00:00:0a
+5.435924 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.169s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 47686
+  Tx Bytes:   50356416
+  TxOffered:  201.426 Mbps
+  Rx Bytes:   12564288
+  Throughput: 40.2085 Mbps
+  Mean delay:  345.656 ms
+  Mean jitter:  0.369061 ms
+  Rx Packets: 11898
+Flow 2 (1.0.0.2:49154 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 47255
+  Tx Bytes:   49901280
+  TxOffered:  199.605 Mbps
+  Rx Bytes:   4321152
+  Throughput: 10.7622 Mbps
+  Mean delay:  1239.41 ms
+  Mean jitter:  1.19435 ms
+  Rx Packets: 4092
+Flow 3 (1.0.0.2:49155 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 46522
+  Tx Bytes:   49127232
+  TxOffered:  196.509 Mbps
+  Rx Bytes:   5701344
+  Throughput: 14.833 Mbps
+  Mean delay:  880.221 ms
+  Mean jitter:  0.879584 ms
+  Rx Packets: 5399
+Flow 4 (1.0.0.2:49156 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 45378
+  Tx Bytes:   47919168
+  TxOffered:  191.677 Mbps
+  Rx Bytes:   11794464
+  Throughput: 39.2344 Mbps
+  Mean delay:  353.273 ms
+  Mean jitter:  0.376377 ms
+  Rx Packets: 11169
+Flow 5 (1.0.0.2:49157 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 41147
+  Tx Bytes:   43451232
+  TxOffered:  173.805 Mbps
+  Rx Bytes:   7215648
+  Throughput: 23.1462 Mbps
+  Mean delay:  556.051 ms
+  Mean jitter:  0.604681 ms
+  Rx Packets: 6833
+Flow 6 (1.0.0.2:49158 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 38900
+  Tx Bytes:   41078400
+  TxOffered:  164.314 Mbps
+  Rx Bytes:   3217632
+  Throughput: 8.88983 Mbps
+  Mean delay:  1470.35 ms
+  Mean jitter:  1.45677 ms
+  Rx Packets: 3047
+Flow 7 (1.0.0.2:49159 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 34534
+  Tx Bytes:   36467904
+  TxOffered:  145.872 Mbps
+  Rx Bytes:   7904160
+  Throughput: 32.2783 Mbps
+  Mean delay:  424.805 ms
+  Mean jitter:  0.443946 ms
+  Rx Packets: 7485
+Flow 8 (1.0.0.2:49160 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 34523
+  Tx Bytes:   36456288
+  TxOffered:  145.825 Mbps
+  Rx Bytes:   2776224
+  Throughput: 8.07166 Mbps
+  Mean delay:  1675.69 ms
+  Mean jitter:  1.56506 ms
+  Rx Packets: 2629
+Flow 9 (1.0.0.2:49161 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 34468
+  Tx Bytes:   36398208
+  TxOffered:  145.593 Mbps
+  Rx Bytes:   3150048
+  Throughput: 9.29463 Mbps
+  Mean delay:  1371.79 ms
+  Mean jitter:  1.34372 ms
+  Rx Packets: 2983
+Flow 10 (1.0.0.2:49162 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 31707
+  Tx Bytes:   33482592
+  TxOffered:  133.93 Mbps
+  Rx Bytes:   3179616
+  Throughput: 9.87927 Mbps
+  Mean delay:  1283.14 ms
+  Mean jitter:  1.22738 ms
+  Rx Packets: 3011
+Flow 11 (1.0.0.2:49163 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 28404
+  Tx Bytes:   29994624
+  TxOffered:  119.978 Mbps
+  Rx Bytes:   5284224
+  Throughput: 22.9132 Mbps
+  Mean delay:  563.024 ms
+  Mean jitter:  0.573114 ms
+  Rx Packets: 5004
+Flow 12 (1.0.0.2:49164 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 28279
+  Tx Bytes:   29862624
+  TxOffered:  119.45 Mbps
+  Rx Bytes:   5196576
+  Throughput: 22.2574 Mbps
+  Mean delay:  580.595 ms
+  Mean jitter:  0.586195 ms
+  Rx Packets: 4921
+Flow 13 (1.0.0.2:49165 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 27009
+  Tx Bytes:   28521504
+  TxOffered:  114.086 Mbps
+  Rx Bytes:   3059232
+  Throughput: 10.2676 Mbps
+  Mean delay:  1211.69 ms
+  Mean jitter:  1.18114 ms
+  Rx Packets: 2897
+Flow 14 (1.0.0.2:49166 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 25282
+  Tx Bytes:   26697792
+  TxOffered:  106.791 Mbps
+  Rx Bytes:   3436224
+  Throughput: 12.4188 Mbps
+  Mean delay:  977.089 ms
+  Mean jitter:  0.939788 ms
+  Rx Packets: 3254
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 42899
+  Tx Bytes:   45301344
+  TxOffered:  181.205 Mbps
+  Rx Bytes:   0
+  Throughput:  0 Mbps
+  Mean delay:  0 ms
+  Mean jitter: 0 ms
+  Rx Packets: 0
+Flow 2 (12.0.0.1:49154 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 29082
+  Tx Bytes:   30710592
+  TxOffered:  122.842 Mbps
+  Rx Bytes:   1056
+  Throughput: 0.191882 Mbps
+  Mean delay:  44.0272 ms
+  Mean jitter:  0 ms
+  Rx Packets: 1
+--- List of associations (time and node id) ---
+0.600310 18 associate 00:00:00:00:00:0a
+1.200842 17 associate 00:00:00:00:00:0a
+3.003895 17 deassociate 00:00:00:00:00:0a
+3.620056 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.208s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 44118
+  Tx Bytes:   46588608
+  TxOffered:  186.354 Mbps
+  Rx Bytes:   4760448
+  Throughput: 12.3322 Mbps
+  Mean delay:  1006.22 ms
+  Mean jitter:  1.03428 ms
+  Rx Packets: 4508
+Flow 2 (1.0.0.2:49154 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 43397
+  Tx Bytes:   45827232
+  TxOffered:  183.309 Mbps
+  Rx Bytes:   3011712
+  Throughput: 7.24307 Mbps
+  Mean delay:  1856.55 ms
+  Mean jitter:  1.76154 ms
+  Rx Packets: 2852
+Flow 3 (1.0.0.2:49155 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 43381
+  Tx Bytes:   45810336
+  TxOffered:  183.241 Mbps
+  Rx Bytes:   3135264
+  Throughput: 7.64512 Mbps
+  Mean delay:  1730.19 ms
+  Mean jitter:  1.63691 ms
+  Rx Packets: 2969
+Flow 4 (1.0.0.2:49156 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 42501
+  Tx Bytes:   44881056
+  TxOffered:  179.524 Mbps
+  Rx Bytes:   4079328
+  Throughput: 10.7576 Mbps
+  Mean delay:  1106.52 ms
+  Mean jitter:  1.18474 ms
+  Rx Packets: 3863
+Flow 5 (1.0.0.2:49157 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 40458
+  Tx Bytes:   42723648
+  TxOffered:  170.895 Mbps
+  Rx Bytes:   3242976
+  Throughput: 8.71004 Mbps
+  Mean delay:  1389.19 ms
+  Mean jitter:  1.41841 ms
+  Rx Packets: 3071
+Flow 6 (1.0.0.2:49158 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 37295
+  Tx Bytes:   39383520
+  TxOffered:  157.534 Mbps
+  Rx Bytes:   4301088
+  Throughput: 12.5829 Mbps
+  Mean delay:  960.627 ms
+  Mean jitter:  1.0279 ms
+  Rx Packets: 4073
+Flow 7 (1.0.0.2:49159 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 36484
+  Tx Bytes:   38527104
+  TxOffered:  154.108 Mbps
+  Rx Bytes:   4557696
+  Throughput: 13.5083 Mbps
+  Mean delay:  905.953 ms
+  Mean jitter:  0.961143 ms
+  Rx Packets: 4316
+Flow 8 (1.0.0.2:49160 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 34292
+  Tx Bytes:   36212352
+  TxOffered:  144.849 Mbps
+  Rx Bytes:   12163008
+  Throughput: 55.8237 Mbps
+  Mean delay:  263.151 ms
+  Mean jitter:  0.268933 ms
+  Rx Packets: 11518
+Flow 9 (1.0.0.2:49161 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 33884
+  Tx Bytes:   35781504
+  TxOffered:  143.126 Mbps
+  Rx Bytes:   2798400
+  Throughput: 8.36185 Mbps
+  Mean delay:  1427.84 ms
+  Mean jitter:  1.43875 ms
+  Rx Packets: 2650
+Flow 10 (1.0.0.2:49162 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 31160
+  Tx Bytes:   32904960
+  TxOffered:  131.62 Mbps
+  Rx Bytes:   2977920
+  Throughput: 9.34511 Mbps
+  Mean delay:  1259.09 ms
+  Mean jitter:  1.25682 ms
+  Rx Packets: 2820
+Flow 11 (1.0.0.2:49163 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 30106
+  Tx Bytes:   31791936
+  TxOffered:  127.168 Mbps
+  Rx Bytes:   7219872
+  Throughput: 32.036 Mbps
+  Mean delay:  399.695 ms
+  Mean jitter:  0.399703 ms
+  Rx Packets: 6837
+Flow 12 (1.0.0.2:49164 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 29895
+  Tx Bytes:   31569120
+  TxOffered:  126.276 Mbps
+  Rx Bytes:   4631616
+  Throughput: 15.4112 Mbps
+  Mean delay:  781.075 ms
+  Mean jitter:  0.806979 ms
+  Rx Packets: 4386
+Flow 13 (1.0.0.2:49165 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 26172
+  Tx Bytes:   27637632
+  TxOffered:  110.551 Mbps
+  Rx Bytes:   5672832
+  Throughput: 27.2215 Mbps
+  Mean delay:  459.959 ms
+  Mean jitter:  0.464059 ms
+  Rx Packets: 5372
+Flow 14 (1.0.0.2:49166 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 24441
+  Tx Bytes:   25809696
+  TxOffered:  103.239 Mbps
+  Rx Bytes:   3476352
+  Throughput: 12.607 Mbps
+  Mean delay:  894.143 ms
+  Mean jitter:  0.948226 ms
+  Rx Packets: 3292
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 38804
+  Tx Bytes:   40977024
+  TxOffered:  163.908 Mbps
+  Rx Bytes:   7951680
+  Throughput: 31.7459 Mbps
+  Mean delay:  424.421 ms
+  Mean jitter:  0.367472 ms
+  Rx Packets: 7530
+Flow 2 (12.0.0.1:49154 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 26970
+  Tx Bytes:   28480320
+  TxOffered:  113.921 Mbps
+  Rx Bytes:   0
+  Throughput:  0 Mbps
+  Mean delay:  0 ms
+  Mean jitter: 0 ms
+  Rx Packets: 0
+--- List of associations (time and node id) ---
+0.600747 18 associate 00:00:00:00:00:0a
+0.601547 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.211s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 43160
+  Tx Bytes:   45576960
+  TxOffered:  182.308 Mbps
+  Rx Bytes:   5703456
+  Throughput: 14.5046 Mbps
+  Mean delay:  861.943 ms
+  Mean jitter:  0.876173 ms
+  Rx Packets: 5401
+Flow 2 (1.0.0.2:49154 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 43033
+  Tx Bytes:   45442848
+  TxOffered:  181.771 Mbps
+  Rx Bytes:   4860768
+  Throughput: 11.6338 Mbps
+  Mean delay:  1099.84 ms
+  Mean jitter:  1.02753 ms
+  Rx Packets: 4603
+Flow 3 (1.0.0.2:49155 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 41991
+  Tx Bytes:   44342496
+  TxOffered:  177.37 Mbps
+  Rx Bytes:   4509120
+  Throughput: 10.8469 Mbps
+  Mean delay:  1189.05 ms
+  Mean jitter:  1.16814 ms
+  Rx Packets: 4270
+Flow 4 (1.0.0.2:49156 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 38441
+  Tx Bytes:   40593696
+  TxOffered:  162.375 Mbps
+  Rx Bytes:   4031808
+  Throughput: 10.2146 Mbps
+  Mean delay:  1229.5 ms
+  Mean jitter:  1.20758 ms
+  Rx Packets: 3818
+Flow 5 (1.0.0.2:49157 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 37453
+  Tx Bytes:   39550368
+  TxOffered:  158.201 Mbps
+  Rx Bytes:   3760416
+  Throughput: 9.58964 Mbps
+  Mean delay:  1330.06 ms
+  Mean jitter:  1.26682 ms
+  Rx Packets: 3561
+Flow 6 (1.0.0.2:49158 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 35968
+  Tx Bytes:   37982208
+  TxOffered:  151.929 Mbps
+  Rx Bytes:   3748800
+  Throughput: 9.83295 Mbps
+  Mean delay:  1266.66 ms
+  Mean jitter:  1.22003 ms
+  Rx Packets: 3550
+Flow 7 (1.0.0.2:49159 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 34069
+  Tx Bytes:   35976864
+  TxOffered:  143.907 Mbps
+  Rx Bytes:   4271520
+  Throughput: 14.2036 Mbps
+  Mean delay:  900.936 ms
+  Mean jitter:  0.8926 ms
+  Rx Packets: 4045
+Flow 8 (1.0.0.2:49160 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 32719
+  Tx Bytes:   34551264
+  TxOffered:  138.205 Mbps
+  Rx Bytes:   2964192
+  Throughput: 8.00759 Mbps
+  Mean delay:  1604 ms
+  Mean jitter:  1.49841 ms
+  Rx Packets: 2807
+Flow 9 (1.0.0.2:49161 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 32026
+  Tx Bytes:   33819456
+  TxOffered:  135.278 Mbps
+  Rx Bytes:   3533376
+  Throughput: 9.9852 Mbps
+  Mean delay:  1226.71 ms
+  Mean jitter:  1.15625 ms
+  Rx Packets: 3346
+Flow 10 (1.0.0.2:49162 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 31496
+  Tx Bytes:   33259776
+  TxOffered:  133.039 Mbps
+  Rx Bytes:   4691808
+  Throughput: 17.2882 Mbps
+  Mean delay:  759.447 ms
+  Mean jitter:  0.727106 ms
+  Rx Packets: 4443
+Flow 11 (1.0.0.2:49163 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 29781
+  Tx Bytes:   31448736
+  TxOffered:  125.795 Mbps
+  Rx Bytes:   2453088
+  Throughput: 6.51423 Mbps
+  Mean delay:  2052.52 ms
+  Mean jitter:  1.79024 ms
+  Rx Packets: 2323
+Flow 12 (1.0.0.2:49164 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 28629
+  Tx Bytes:   30232224
+  TxOffered:  120.929 Mbps
+  Rx Bytes:   3673824
+  Throughput: 13.1312 Mbps
+  Mean delay:  971.215 ms
+  Mean jitter:  0.950596 ms
+  Rx Packets: 3479
+Flow 13 (1.0.0.2:49165 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 26952
+  Tx Bytes:   28461312
+  TxOffered:  113.845 Mbps
+  Rx Bytes:   8612736
+  Throughput: 45.0557 Mbps
+  Mean delay:  296.316 ms
+  Mean jitter:  0.315682 ms
+  Rx Packets: 8156
+Flow 14 (1.0.0.2:49166 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 24511
+  Tx Bytes:   25883616
+  TxOffered:  103.534 Mbps
+  Rx Bytes:   3197568
+  Throughput: 10.1435 Mbps
+  Mean delay:  1153.83 ms
+  Mean jitter:  1.10516 ms
+  Rx Packets: 3028
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 39028
+  Tx Bytes:   41213568
+  TxOffered:  164.854 Mbps
+  Rx Bytes:   605088
+  Throughput: 5.53866 Mbps
+  Mean delay:  282.403 ms
+  Mean jitter:  2.36995 ms
+  Rx Packets: 573
+Flow 2 (12.0.0.1:49154 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 25178
+  Tx Bytes:   26587968
+  TxOffered:  106.352 Mbps
+  Rx Bytes:   0
+  Throughput:  0 Mbps
+  Mean delay:  0 ms
+  Mean jitter: 0 ms
+  Rx Packets: 0
+--- List of associations (time and node id) ---
+0.600540 18 associate 00:00:00:00:00:0a
+1.200939 17 associate 00:00:00:00:00:0a
+4.260620 17 deassociate 00:00:00:00:00:0a
+5.384108 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.192s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 47967
+  Tx Bytes:   50653152
+  TxOffered:  202.613 Mbps
+  Rx Bytes:   8406816
+  Throughput: 23.3248 Mbps
+  Mean delay:  589.804 ms
+  Mean jitter:  0.569334 ms
+  Rx Packets: 7961
+Flow 2 (1.0.0.2:49154 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 44244
+  Tx Bytes:   46721664
+  TxOffered:  186.887 Mbps
+  Rx Bytes:   6064608
+  Throughput: 17.0756 Mbps
+  Mean delay:  762.83 ms
+  Mean jitter:  0.793825 ms
+  Rx Packets: 5743
+Flow 3 (1.0.0.2:49155 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 44146
+  Tx Bytes:   46618176
+  TxOffered:  186.473 Mbps
+  Rx Bytes:   3623136
+  Throughput: 9.15145 Mbps
+  Mean delay:  1408.92 ms
+  Mean jitter:  1.43657 ms
+  Rx Packets: 3431
+Flow 4 (1.0.0.2:49156 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 43778
+  Tx Bytes:   46229568
+  TxOffered:  184.918 Mbps
+  Rx Bytes:   3812160
+  Throughput: 9.69357 Mbps
+  Mean delay:  1325.06 ms
+  Mean jitter:  1.3286 ms
+  Rx Packets: 3610
+Flow 5 (1.0.0.2:49157 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 41869
+  Tx Bytes:   44213664
+  TxOffered:  176.855 Mbps
+  Rx Bytes:   3222912
+  Throughput: 8.17319 Mbps
+  Mean delay:  1626.12 ms
+  Mean jitter:  1.57823 ms
+  Rx Packets: 3052
+Flow 6 (1.0.0.2:49158 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 39449
+  Tx Bytes:   41658144
+  TxOffered:  166.633 Mbps
+  Rx Bytes:   5792160
+  Throughput: 19.0756 Mbps
+  Mean delay:  655.501 ms
+  Mean jitter:  0.6651 ms
+  Rx Packets: 5485
+Flow 7 (1.0.0.2:49159 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 39339
+  Tx Bytes:   41541984
+  TxOffered:  166.168 Mbps
+  Rx Bytes:   6758400
+  Throughput: 23.1296 Mbps
+  Mean delay:  579.17 ms
+  Mean jitter:  0.578302 ms
+  Rx Packets: 6400
+Flow 8 (1.0.0.2:49160 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 37999
+  Tx Bytes:   40126944
+  TxOffered:  160.508 Mbps
+  Rx Bytes:   2381280
+  Throughput: 5.75104 Mbps
+  Mean delay:  2414.97 ms
+  Mean jitter:  2.1174 ms
+  Rx Packets: 2255
+Flow 9 (1.0.0.2:49161 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 35967
+  Tx Bytes:   37981152
+  TxOffered:  151.925 Mbps
+  Rx Bytes:   3459456
+  Throughput: 9.8178 Mbps
+  Mean delay:  1294.84 ms
+  Mean jitter:  1.25995 ms
+  Rx Packets: 3276
+Flow 10 (1.0.0.2:49162 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 35310
+  Tx Bytes:   37287360
+  TxOffered:  149.149 Mbps
+  Rx Bytes:   3448896
+  Throughput: 9.92512 Mbps
+  Mean delay:  1233.17 ms
+  Mean jitter:  1.25119 ms
+  Rx Packets: 3266
+Flow 11 (1.0.0.2:49163 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 34132
+  Tx Bytes:   36043392
+  TxOffered:  144.174 Mbps
+  Rx Bytes:   3479520
+  Throughput: 10.2585 Mbps
+  Mean delay:  1171.92 ms
+  Mean jitter:  1.21715 ms
+  Rx Packets: 3295
+Flow 12 (1.0.0.2:49164 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 27330
+  Tx Bytes:   28860480
+  TxOffered:  115.442 Mbps
+  Rx Bytes:   5760480
+  Throughput: 26.2316 Mbps
+  Mean delay:  494.084 ms
+  Mean jitter:  0.512106 ms
+  Rx Packets: 5455
+Flow 13 (1.0.0.2:49165 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 26360
+  Tx Bytes:   27836160
+  TxOffered:  111.345 Mbps
+  Rx Bytes:   5113152
+  Throughput: 22.1963 Mbps
+  Mean delay:  559.621 ms
+  Mean jitter:  0.598537 ms
+  Rx Packets: 4842
+Flow 14 (1.0.0.2:49166 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 25673
+  Tx Bytes:   27110688
+  TxOffered:  108.443 Mbps
+  Rx Bytes:   3864960
+  Throughput: 14.5323 Mbps
+  Mean delay:  793.552 ms
+  Mean jitter:  0.82175 ms
+  Rx Packets: 3660
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 46153
+  Tx Bytes:   48737568
+  TxOffered:  194.95 Mbps
+  Rx Bytes:   872256
+  Throughput: 2.98594 Mbps
+  Mean delay:  419.987 ms
+  Mean jitter:  1.76899 ms
+  Rx Packets: 826
+Flow 2 (12.0.0.1:49154 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 32572
+  Tx Bytes:   34396032
+  TxOffered:  137.584 Mbps
+  Rx Bytes:   373824
+  Throughput: 1.70965 Mbps
+  Mean delay:  369.742 ms
+  Mean jitter:  2.84563 ms
+  Rx Packets: 354
+--- List of associations (time and node id) ---
+0.600567 18 associate 00:00:00:00:00:0a
+0.601655 17 associate 00:00:00:00:00:0a
+2.914768 17 deassociate 00:00:00:00:00:0a
+3.566144 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.202s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 47686
+  Tx Bytes:   50356416
+  TxOffered:  201.426 Mbps
+  Rx Bytes:   12677280
+  Throughput: 40.9303 Mbps
+  Mean delay:  338.318 ms
+  Mean jitter:  0.364059 ms
+  Rx Packets: 12005
+Flow 2 (1.0.0.2:49154 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 47255
+  Tx Bytes:   49901280
+  TxOffered:  199.605 Mbps
+  Rx Bytes:   4361280
+  Throughput: 10.8893 Mbps
+  Mean delay:  1255.39 ms
+  Mean jitter:  1.18171 ms
+  Rx Packets: 4130
+Flow 3 (1.0.0.2:49155 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 46522
+  Tx Bytes:   49127232
+  TxOffered:  196.509 Mbps
+  Rx Bytes:   5653824
+  Throughput: 14.6048 Mbps
+  Mean delay:  896.043 ms
+  Mean jitter:  0.892266 ms
+  Rx Packets: 5354
+Flow 4 (1.0.0.2:49156 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 45378
+  Tx Bytes:   47919168
+  TxOffered:  191.677 Mbps
+  Rx Bytes:   11907456
+  Throughput: 39.976 Mbps
+  Mean delay:  345.239 ms
+  Mean jitter:  0.37146 ms
+  Rx Packets: 11276
+Flow 5 (1.0.0.2:49157 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 41147
+  Tx Bytes:   43451232
+  TxOffered:  173.805 Mbps
+  Rx Bytes:   7196640
+  Throughput: 22.4374 Mbps
+  Mean delay:  570.254 ms
+  Mean jitter:  0.620355 ms
+  Rx Packets: 6815
+Flow 6 (1.0.0.2:49158 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 38900
+  Tx Bytes:   41078400
+  TxOffered:  164.314 Mbps
+  Rx Bytes:   3226080
+  Throughput: 8.97828 Mbps
+  Mean delay:  1500.92 ms
+  Mean jitter:  1.42649 ms
+  Rx Packets: 3055
+Flow 7 (1.0.0.2:49159 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 34534
+  Tx Bytes:   36467904
+  TxOffered:  145.872 Mbps
+  Rx Bytes:   8020320
+  Throughput: 33.1247 Mbps
+  Mean delay:  409.231 ms
+  Mean jitter:  0.436921 ms
+  Rx Packets: 7595
+Flow 8 (1.0.0.2:49160 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 34523
+  Tx Bytes:   36456288
+  TxOffered:  145.825 Mbps
+  Rx Bytes:   2772000
+  Throughput: 8.07994 Mbps
+  Mean delay:  1697.19 ms
+  Mean jitter:  1.53203 ms
+  Rx Packets: 2625
+Flow 9 (1.0.0.2:49161 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 34468
+  Tx Bytes:   36398208
+  TxOffered:  145.593 Mbps
+  Rx Bytes:   3001152
+  Throughput: 8.91778 Mbps
+  Mean delay:  1487.44 ms
+  Mean jitter:  1.40581 ms
+  Rx Packets: 2842
+Flow 10 (1.0.0.2:49162 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 31707
+  Tx Bytes:   33482592
+  TxOffered:  133.93 Mbps
+  Rx Bytes:   4134240
+  Throughput: 13.5895 Mbps
+  Mean delay:  910.934 ms
+  Mean jitter:  0.943824 ms
+  Rx Packets: 3915
+Flow 11 (1.0.0.2:49163 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 28404
+  Tx Bytes:   29994624
+  TxOffered:  119.978 Mbps
+  Rx Bytes:   4907232
+  Throughput: 21.3131 Mbps
+  Mean delay:  631.704 ms
+  Mean jitter:  0.638427 ms
+  Rx Packets: 4647
+Flow 12 (1.0.0.2:49164 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 28279
+  Tx Bytes:   29862624
+  TxOffered:  119.45 Mbps
+  Rx Bytes:   4747776
+  Throughput: 19.3313 Mbps
+  Mean delay:  658.591 ms
+  Mean jitter:  0.656882 ms
+  Rx Packets: 4496
+Flow 13 (1.0.0.2:49165 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 27009
+  Tx Bytes:   28521504
+  TxOffered:  114.086 Mbps
+  Rx Bytes:   3090912
+  Throughput: 10.4352 Mbps
+  Mean delay:  1210.18 ms
+  Mean jitter:  1.16157 ms
+  Rx Packets: 2927
+Flow 14 (1.0.0.2:49166 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 25282
+  Tx Bytes:   26697792
+  TxOffered:  106.791 Mbps
+  Rx Bytes:   3430944
+  Throughput: 12.2997 Mbps
+  Mean delay:  981.228 ms
+  Mean jitter:  0.981648 ms
+  Rx Packets: 3249
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 42899
+  Tx Bytes:   45301344
+  TxOffered:  181.205 Mbps
+  Rx Bytes:   0
+  Throughput:  0 Mbps
+  Mean delay:  0 ms
+  Mean jitter: 0 ms
+  Rx Packets: 0
+Flow 2 (12.0.0.1:49154 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 29082
+  Tx Bytes:   30710592
+  TxOffered:  122.842 Mbps
+  Rx Bytes:   0
+  Throughput:  0 Mbps
+  Mean delay:  0 ms
+  Mean jitter: 0 ms
+  Rx Packets: 0
+--- List of associations (time and node id) ---
+0.600310 18 associate 00:00:00:00:00:0a
+1.200842 17 associate 00:00:00:00:00:0a
+3.003895 17 deassociate 00:00:00:00:00:0a
+4.812864 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.190s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 44118
+  Tx Bytes:   46588608
+  TxOffered:  186.354 Mbps
+  Rx Bytes:   4080384
+  Throughput: 10.629 Mbps
+  Mean delay:  1208.67 ms
+  Mean jitter:  1.22518 ms
+  Rx Packets: 3864
+Flow 2 (1.0.0.2:49154 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 43397
+  Tx Bytes:   45827232
+  TxOffered:  183.309 Mbps
+  Rx Bytes:   3195456
+  Throughput: 7.78087 Mbps
+  Mean delay:  1736.42 ms
+  Mean jitter:  1.62873 ms
+  Rx Packets: 3026
+Flow 3 (1.0.0.2:49155 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 43381
+  Tx Bytes:   45810336
+  TxOffered:  183.241 Mbps
+  Rx Bytes:   3326400
+  Throughput: 8.22654 Mbps
+  Mean delay:  1627.45 ms
+  Mean jitter:  1.55578 ms
+  Rx Packets: 3150
+Flow 4 (1.0.0.2:49156 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 42501
+  Tx Bytes:   44881056
+  TxOffered:  179.524 Mbps
+  Rx Bytes:   3773088
+  Throughput: 10.0527 Mbps
+  Mean delay:  1252.75 ms
+  Mean jitter:  1.27395 ms
+  Rx Packets: 3573
+Flow 5 (1.0.0.2:49157 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 40458
+  Tx Bytes:   42723648
+  TxOffered:  170.895 Mbps
+  Rx Bytes:   3387648
+  Throughput: 8.34239 Mbps
+  Mean delay:  1167.51 ms
+  Mean jitter:  1.46757 ms
+  Rx Packets: 3208
+Flow 6 (1.0.0.2:49158 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 37295
+  Tx Bytes:   39383520
+  TxOffered:  157.534 Mbps
+  Rx Bytes:   3935712
+  Throughput: 11.552 Mbps
+  Mean delay:  1059.01 ms
+  Mean jitter:  1.09478 ms
+  Rx Packets: 3727
+Flow 7 (1.0.0.2:49159 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 36484
+  Tx Bytes:   38527104
+  TxOffered:  154.108 Mbps
+  Rx Bytes:   3924096
+  Throughput: 11.639 Mbps
+  Mean delay:  1064.31 ms
+  Mean jitter:  1.00089 ms
+  Rx Packets: 3716
+Flow 8 (1.0.0.2:49160 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 34292
+  Tx Bytes:   36212352
+  TxOffered:  144.849 Mbps
+  Rx Bytes:   5187072
+  Throughput: 19.0084 Mbps
+  Mean delay:  523.994 ms
+  Mean jitter:  0.578579 ms
+  Rx Packets: 4912
+Flow 9 (1.0.0.2:49161 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 33884
+  Tx Bytes:   35781504
+  TxOffered:  143.126 Mbps
+  Rx Bytes:   3118368
+  Throughput: 8.95343 Mbps
+  Mean delay:  955.195 ms
+  Mean jitter:  1.25992 ms
+  Rx Packets: 2953
+Flow 10 (1.0.0.2:49162 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 31160
+  Tx Bytes:   32904960
+  TxOffered:  131.62 Mbps
+  Rx Bytes:   3285216
+  Throughput: 10.4571 Mbps
+  Mean delay:  1157.77 ms
+  Mean jitter:  1.15654 ms
+  Rx Packets: 3111
+Flow 11 (1.0.0.2:49163 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 30106
+  Tx Bytes:   31791936
+  TxOffered:  127.168 Mbps
+  Rx Bytes:   2966304
+  Throughput: 9.88381 Mbps
+  Mean delay:  913.564 ms
+  Mean jitter:  1.18105 ms
+  Rx Packets: 2809
+Flow 12 (1.0.0.2:49164 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 29895
+  Tx Bytes:   31569120
+  TxOffered:  126.276 Mbps
+  Rx Bytes:   3044448
+  Throughput: 10.8426 Mbps
+  Mean delay:  1132.82 ms
+  Mean jitter:  1.16424 ms
+  Rx Packets: 2883
+Flow 13 (1.0.0.2:49165 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 26172
+  Tx Bytes:   27637632
+  TxOffered:  110.551 Mbps
+  Rx Bytes:   2617824
+  Throughput: 9.35287 Mbps
+  Mean delay:  936.25 ms
+  Mean jitter:  1.21357 ms
+  Rx Packets: 2479
+Flow 14 (1.0.0.2:49166 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 24441
+  Tx Bytes:   25809696
+  TxOffered:  103.239 Mbps
+  Rx Bytes:   3452064
+  Throughput: 12.5302 Mbps
+  Mean delay:  925.035 ms
+  Mean jitter:  0.944847 ms
+  Rx Packets: 3269
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 38804
+  Tx Bytes:   40977024
+  TxOffered:  163.908 Mbps
+  Rx Bytes:   9902112
+  Throughput: 39.4276 Mbps
+  Mean delay:  373.314 ms
+  Mean jitter:  0.30805 ms
+  Rx Packets: 9377
+Flow 2 (12.0.0.1:49154 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 26970
+  Tx Bytes:   28480320
+  TxOffered:  113.921 Mbps
+  Rx Bytes:   1056
+  Throughput: 0.00523388 Mbps
+  Mean delay:  1614.1 ms
+  Mean jitter:  0 ms
+  Rx Packets: 1
+--- List of associations (time and node id) ---
+0.600747 18 associate 00:00:00:00:00:0a
+0.601547 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.239s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 43160
+  Tx Bytes:   45576960
+  TxOffered:  182.308 Mbps
+  Rx Bytes:   4348608
+  Throughput: 9.81702 Mbps
+  Mean delay:  1261.4 ms
+  Mean jitter:  1.24578 ms
+  Rx Packets: 4118
+Flow 2 (1.0.0.2:49154 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 43033
+  Tx Bytes:   45442848
+  TxOffered:  181.771 Mbps
+  Rx Bytes:   4444704
+  Throughput: 10.083 Mbps
+  Mean delay:  1256.17 ms
+  Mean jitter:  1.21823 ms
+  Rx Packets: 4209
+Flow 3 (1.0.0.2:49155 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 41991
+  Tx Bytes:   44342496
+  TxOffered:  177.37 Mbps
+  Rx Bytes:   4063488
+  Throughput: 9.20992 Mbps
+  Mean delay:  1361.46 ms
+  Mean jitter:  1.34978 ms
+  Rx Packets: 3848
+Flow 4 (1.0.0.2:49156 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 38441
+  Tx Bytes:   40593696
+  TxOffered:  162.375 Mbps
+  Rx Bytes:   4049760
+  Throughput: 9.7447 Mbps
+  Mean delay:  1228.53 ms
+  Mean jitter:  1.22289 ms
+  Rx Packets: 3835
+Flow 5 (1.0.0.2:49157 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 37453
+  Tx Bytes:   39550368
+  TxOffered:  158.201 Mbps
+  Rx Bytes:   3329568
+  Throughput: 7.97724 Mbps
+  Mean delay:  1556.17 ms
+  Mean jitter:  1.52774 ms
+  Rx Packets: 3153
+Flow 6 (1.0.0.2:49158 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 35968
+  Tx Bytes:   37982208
+  TxOffered:  151.929 Mbps
+  Rx Bytes:   3110976
+  Throughput: 7.59703 Mbps
+  Mean delay:  1641.21 ms
+  Mean jitter:  1.58399 ms
+  Rx Packets: 2946
+Flow 7 (1.0.0.2:49159 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 34069
+  Tx Bytes:   35976864
+  TxOffered:  143.907 Mbps
+  Rx Bytes:   4839648
+  Throughput: 15.7012 Mbps
+  Mean delay:  800.326 ms
+  Mean jitter:  0.805 ms
+  Rx Packets: 4583
+Flow 8 (1.0.0.2:49160 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 32719
+  Tx Bytes:   34551264
+  TxOffered:  138.205 Mbps
+  Rx Bytes:   2841696
+  Throughput: 7.22531 Mbps
+  Mean delay:  1701.75 ms
+  Mean jitter:  1.64259 ms
+  Rx Packets: 2691
+Flow 9 (1.0.0.2:49161 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 32026
+  Tx Bytes:   33819456
+  TxOffered:  135.278 Mbps
+  Rx Bytes:   3173280
+  Throughput: 8.48501 Mbps
+  Mean delay:  1407.26 ms
+  Mean jitter:  1.40662 ms
+  Rx Packets: 3005
+Flow 10 (1.0.0.2:49162 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 31496
+  Tx Bytes:   33259776
+  TxOffered:  133.039 Mbps
+  Rx Bytes:   3785760
+  Throughput: 12.0369 Mbps
+  Mean delay:  1018.71 ms
+  Mean jitter:  1.01519 ms
+  Rx Packets: 3585
+Flow 11 (1.0.0.2:49163 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 29781
+  Tx Bytes:   31448736
+  TxOffered:  125.795 Mbps
+  Rx Bytes:   2500608
+  Throughput: 6.30553 Mbps
+  Mean delay:  2051.55 ms
+  Mean jitter:  1.82761 ms
+  Rx Packets: 2368
+Flow 12 (1.0.0.2:49164 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 28629
+  Tx Bytes:   30232224
+  TxOffered:  120.929 Mbps
+  Rx Bytes:   3081408
+  Throughput: 9.7312 Mbps
+  Mean delay:  1169.31 ms
+  Mean jitter:  1.18561 ms
+  Rx Packets: 2918
+Flow 13 (1.0.0.2:49165 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 26952
+  Tx Bytes:   28461312
+  TxOffered:  113.845 Mbps
+  Rx Bytes:   3393984
+  Throughput: 12.0822 Mbps
+  Mean delay:  848.132 ms
+  Mean jitter:  0.947794 ms
+  Rx Packets: 3214
+Flow 14 (1.0.0.2:49166 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 24511
+  Tx Bytes:   25883616
+  TxOffered:  103.534 Mbps
+  Rx Bytes:   3087744
+  Throughput: 10.9404 Mbps
+  Mean delay:  1052.25 ms
+  Mean jitter:  1.06126 ms
+  Rx Packets: 2924
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 39028
+  Tx Bytes:   41213568
+  TxOffered:  164.854 Mbps
+  Rx Bytes:   2045472
+  Throughput: 7.94325 Mbps
+  Mean delay:  358.048 ms
+  Mean jitter:  1.76415 ms
+  Rx Packets: 1937
+Flow 2 (12.0.0.1:49154 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 25178
+  Tx Bytes:   26587968
+  TxOffered:  106.352 Mbps
+  Rx Bytes:   0
+  Throughput:  0 Mbps
+  Mean delay:  0 ms
+  Mean jitter: 0 ms
+  Rx Packets: 0
+--- List of associations (time and node id) ---
+0.600540 18 associate 00:00:00:00:00:0a
+1.200939 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.199s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 47967
+  Tx Bytes:   50653152
+  TxOffered:  202.613 Mbps
+  Rx Bytes:   6560928
+  Throughput: 16.2128 Mbps
+  Mean delay:  779.916 ms
+  Mean jitter:  0.799451 ms
+  Rx Packets: 6213
+Flow 2 (1.0.0.2:49154 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 44244
+  Tx Bytes:   46721664
+  TxOffered:  186.887 Mbps
+  Rx Bytes:   5058240
+  Throughput: 13.6649 Mbps
+  Mean delay:  916.954 ms
+  Mean jitter:  0.931278 ms
+  Rx Packets: 4790
+Flow 3 (1.0.0.2:49155 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 44146
+  Tx Bytes:   46618176
+  TxOffered:  186.473 Mbps
+  Rx Bytes:   4599936
+  Throughput: 11.674 Mbps
+  Mean delay:  1069.85 ms
+  Mean jitter:  1.07496 ms
+  Rx Packets: 4356
+Flow 4 (1.0.0.2:49156 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 43778
+  Tx Bytes:   46229568
+  TxOffered:  184.918 Mbps
+  Rx Bytes:   3776256
+  Throughput: 9.24948 Mbps
+  Mean delay:  1326.13 ms
+  Mean jitter:  1.40205 ms
+  Rx Packets: 3576
+Flow 5 (1.0.0.2:49157 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 41869
+  Tx Bytes:   44213664
+  TxOffered:  176.855 Mbps
+  Rx Bytes:   3213408
+  Throughput: 7.80517 Mbps
+  Mean delay:  1629.27 ms
+  Mean jitter:  1.58063 ms
+  Rx Packets: 3043
+Flow 6 (1.0.0.2:49158 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 39449
+  Tx Bytes:   41658144
+  TxOffered:  166.633 Mbps
+  Rx Bytes:   4301088
+  Throughput: 12.4573 Mbps
+  Mean delay:  933.738 ms
+  Mean jitter:  1.0244 ms
+  Rx Packets: 4073
+Flow 7 (1.0.0.2:49159 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 39339
+  Tx Bytes:   41541984
+  TxOffered:  166.168 Mbps
+  Rx Bytes:   7805952
+  Throughput: 27.5515 Mbps
+  Mean delay:  486.987 ms
+  Mean jitter:  0.511681 ms
+  Rx Packets: 7392
+Flow 8 (1.0.0.2:49160 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 37999
+  Tx Bytes:   40126944
+  TxOffered:  160.508 Mbps
+  Rx Bytes:   2445696
+  Throughput: 5.67038 Mbps
+  Mean delay:  2369.55 ms
+  Mean jitter:  2.1277 ms
+  Rx Packets: 2316
+Flow 9 (1.0.0.2:49161 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 35967
+  Tx Bytes:   37981152
+  TxOffered:  151.925 Mbps
+  Rx Bytes:   3096192
+  Throughput: 8.19389 Mbps
+  Mean delay:  1543.62 ms
+  Mean jitter:  1.47455 ms
+  Rx Packets: 2932
+Flow 10 (1.0.0.2:49162 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 35310
+  Tx Bytes:   37287360
+  TxOffered:  149.149 Mbps
+  Rx Bytes:   3418272
+  Throughput: 9.39107 Mbps
+  Mean delay:  1275.27 ms
+  Mean jitter:  1.32806 ms
+  Rx Packets: 3237
+Flow 11 (1.0.0.2:49163 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 34132
+  Tx Bytes:   36043392
+  TxOffered:  144.174 Mbps
+  Rx Bytes:   3302112
+  Throughput: 9.19653 Mbps
+  Mean delay:  1312.79 ms
+  Mean jitter:  1.32253 ms
+  Rx Packets: 3127
+Flow 12 (1.0.0.2:49164 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 27330
+  Tx Bytes:   28860480
+  TxOffered:  115.442 Mbps
+  Rx Bytes:   4001184
+  Throughput: 14.7795 Mbps
+  Mean delay:  791.206 ms
+  Mean jitter:  0.807976 ms
+  Rx Packets: 3789
+Flow 13 (1.0.0.2:49165 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 26360
+  Tx Bytes:   27836160
+  TxOffered:  111.345 Mbps
+  Rx Bytes:   6163872
+  Throughput: 30.7447 Mbps
+  Mean delay:  426.815 ms
+  Mean jitter:  0.452794 ms
+  Rx Packets: 5837
+Flow 14 (1.0.0.2:49166 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 25673
+  Tx Bytes:   27110688
+  TxOffered:  108.443 Mbps
+  Rx Bytes:   3412992
+  Throughput: 11.6651 Mbps
+  Mean delay:  1005.79 ms
+  Mean jitter:  0.940013 ms
+  Rx Packets: 3232
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 46153
+  Tx Bytes:   48737568
+  TxOffered:  194.95 Mbps
+  Rx Bytes:   2461536
+  Throughput: 10.2647 Mbps
+  Mean delay:  413.236 ms
+  Mean jitter:  0.927056 ms
+  Rx Packets: 2331
+Flow 2 (12.0.0.1:49154 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 32572
+  Tx Bytes:   34396032
+  TxOffered:  137.584 Mbps
+  Rx Bytes:   481536
+  Throughput: 2.32444 Mbps
+  Mean delay:  436.459 ms
+  Mean jitter:  1.54007 ms
+  Rx Packets: 456
+--- List of associations (time and node id) ---
+0.600567 18 associate 00:00:00:00:00:0a
+0.601655 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.195s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 47686
+  Tx Bytes:   50356416
+  TxOffered:  201.426 Mbps
+  Rx Bytes:   7302240
+  Throughput: 20.47 Mbps
+  Mean delay:  679.128 ms
+  Mean jitter:  0.667989 ms
+  Rx Packets: 6915
+Flow 2 (1.0.0.2:49154 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 47255
+  Tx Bytes:   49901280
+  TxOffered:  199.605 Mbps
+  Rx Bytes:   3899808
+  Throughput: 8.68772 Mbps
+  Mean delay:  1530.12 ms
+  Mean jitter:  1.44549 ms
+  Rx Packets: 3693
+Flow 3 (1.0.0.2:49155 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 46522
+  Tx Bytes:   49127232
+  TxOffered:  196.509 Mbps
+  Rx Bytes:   4479552
+  Throughput: 10.3395 Mbps
+  Mean delay:  1266.27 ms
+  Mean jitter:  1.19428 ms
+  Rx Packets: 4242
+Flow 4 (1.0.0.2:49156 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 45378
+  Tx Bytes:   47919168
+  TxOffered:  191.677 Mbps
+  Rx Bytes:   9268512
+  Throughput: 29.6483 Mbps
+  Mean delay:  483.131 ms
+  Mean jitter:  0.464577 ms
+  Rx Packets: 8777
+Flow 5 (1.0.0.2:49157 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 41147
+  Tx Bytes:   43451232
+  TxOffered:  173.805 Mbps
+  Rx Bytes:   7581024
+  Throughput: 26.4962 Mbps
+  Mean delay:  542.254 ms
+  Mean jitter:  0.487035 ms
+  Rx Packets: 7179
+Flow 6 (1.0.0.2:49158 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 38900
+  Tx Bytes:   41078400
+  TxOffered:  164.314 Mbps
+  Rx Bytes:   3497472
+  Throughput: 8.65292 Mbps
+  Mean delay:  1469.33 ms
+  Mean jitter:  1.40187 ms
+  Rx Packets: 3312
+Flow 7 (1.0.0.2:49159 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 34534
+  Tx Bytes:   36467904
+  TxOffered:  145.872 Mbps
+  Rx Bytes:   4555584
+  Throughput: 15.2488 Mbps
+  Mean delay:  807.994 ms
+  Mean jitter:  0.829322 ms
+  Rx Packets: 4314
+Flow 8 (1.0.0.2:49160 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 34523
+  Tx Bytes:   36456288
+  TxOffered:  145.825 Mbps
+  Rx Bytes:   2760384
+  Throughput: 7.0159 Mbps
+  Mean delay:  1879.9 ms
+  Mean jitter:  1.69922 ms
+  Rx Packets: 2614
+Flow 9 (1.0.0.2:49161 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 34468
+  Tx Bytes:   36398208
+  TxOffered:  145.593 Mbps
+  Rx Bytes:   3384480
+  Throughput: 9.88067 Mbps
+  Mean delay:  1218.24 ms
+  Mean jitter:  1.25779 ms
+  Rx Packets: 3205
+Flow 10 (1.0.0.2:49162 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 31707
+  Tx Bytes:   33482592
+  TxOffered:  133.93 Mbps
+  Rx Bytes:   2908224
+  Throughput: 7.91413 Mbps
+  Mean delay:  1576.6 ms
+  Mean jitter:  1.49396 ms
+  Rx Packets: 2754
+Flow 11 (1.0.0.2:49163 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 28404
+  Tx Bytes:   29994624
+  TxOffered:  119.978 Mbps
+  Rx Bytes:   4183872
+  Throughput: 15.6849 Mbps
+  Mean delay:  714.569 ms
+  Mean jitter:  0.783397 ms
+  Rx Packets: 3962
+Flow 12 (1.0.0.2:49164 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 28279
+  Tx Bytes:   29862624
+  TxOffered:  119.45 Mbps
+  Rx Bytes:   2320032
+  Throughput: 6.416 Mbps
+  Mean delay:  1925.8 ms
+  Mean jitter:  1.80988 ms
+  Rx Packets: 2197
+Flow 13 (1.0.0.2:49165 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 27009
+  Tx Bytes:   28521504
+  TxOffered:  114.086 Mbps
+  Rx Bytes:   2746656
+  Throughput: 7.97691 Mbps
+  Mean delay:  1535.92 ms
+  Mean jitter:  1.40032 ms
+  Rx Packets: 2601
+Flow 14 (1.0.0.2:49166 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 25282
+  Tx Bytes:   26697792
+  TxOffered:  106.791 Mbps
+  Rx Bytes:   2901888
+  Throughput: 8.93382 Mbps
+  Mean delay:  1316.12 ms
+  Mean jitter:  1.29267 ms
+  Rx Packets: 2748
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 42899
+  Tx Bytes:   45301344
+  TxOffered:  181.205 Mbps
+  Rx Bytes:   1966272
+  Throughput: 7.8837 Mbps
+  Mean delay:  329.598 ms
+  Mean jitter:  1.80106 ms
+  Rx Packets: 1862
+Flow 2 (12.0.0.1:49154 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 29082
+  Tx Bytes:   30710592
+  TxOffered:  122.842 Mbps
+  Rx Bytes:   290400
+  Throughput: 1.47024 Mbps
+  Mean delay:  482.804 ms
+  Mean jitter:  3.19091 ms
+  Rx Packets: 275
+--- List of associations (time and node id) ---
+0.600310 18 associate 00:00:00:00:00:0a
+1.200842 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.201s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 44118
+  Tx Bytes:   46588608
+  TxOffered:  186.354 Mbps
+  Rx Bytes:   3704448
+  Throughput: 9.14642 Mbps
+  Mean delay:  1282.51 ms
+  Mean jitter:  1.34573 ms
+  Rx Packets: 3508
+Flow 2 (1.0.0.2:49154 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 43397
+  Tx Bytes:   45827232
+  TxOffered:  183.309 Mbps
+  Rx Bytes:   3485856
+  Throughput: 8.35324 Mbps
+  Mean delay:  1499.23 ms
+  Mean jitter:  1.45524 ms
+  Rx Packets: 3301
+Flow 3 (1.0.0.2:49155 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 43381
+  Tx Bytes:   45810336
+  TxOffered:  183.241 Mbps
+  Rx Bytes:   3616800
+  Throughput: 8.95303 Mbps
+  Mean delay:  1365.1 ms
+  Mean jitter:  1.35658 ms
+  Rx Packets: 3425
+Flow 4 (1.0.0.2:49156 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 42501
+  Tx Bytes:   44881056
+  TxOffered:  179.524 Mbps
+  Rx Bytes:   3557664
+  Throughput: 8.81801 Mbps
+  Mean delay:  1310.53 ms
+  Mean jitter:  1.38635 ms
+  Rx Packets: 3369
+Flow 5 (1.0.0.2:49157 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 40458
+  Tx Bytes:   42723648
+  TxOffered:  170.895 Mbps
+  Rx Bytes:   3049728
+  Throughput: 8.06643 Mbps
+  Mean delay:  1243.73 ms
+  Mean jitter:  1.55122 ms
+  Rx Packets: 2888
+Flow 6 (1.0.0.2:49158 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 37295
+  Tx Bytes:   39383520
+  TxOffered:  157.534 Mbps
+  Rx Bytes:   3373920
+  Throughput: 9.3184 Mbps
+  Mean delay:  959.365 ms
+  Mean jitter:  1.10489 ms
+  Rx Packets: 3195
+Flow 7 (1.0.0.2:49159 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 36484
+  Tx Bytes:   38527104
+  TxOffered:  154.108 Mbps
+  Rx Bytes:   3905088
+  Throughput: 12.0751 Mbps
+  Mean delay:  1025.68 ms
+  Mean jitter:  0.939997 ms
+  Rx Packets: 3698
+Flow 8 (1.0.0.2:49160 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 34292
+  Tx Bytes:   36212352
+  TxOffered:  144.849 Mbps
+  Rx Bytes:   3578784
+  Throughput: 10.9107 Mbps
+  Mean delay:  901.379 ms
+  Mean jitter:  0.980578 ms
+  Rx Packets: 3389
+Flow 9 (1.0.0.2:49161 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 33884
+  Tx Bytes:   35781504
+  TxOffered:  143.126 Mbps
+  Rx Bytes:   2577696
+  Throughput: 7.66231 Mbps
+  Mean delay:  1217.51 ms
+  Mean jitter:  1.45698 ms
+  Rx Packets: 2441
+Flow 10 (1.0.0.2:49162 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 31160
+  Tx Bytes:   32904960
+  TxOffered:  131.62 Mbps
+  Rx Bytes:   3894528
+  Throughput: 13.2959 Mbps
+  Mean delay:  850.405 ms
+  Mean jitter:  0.901281 ms
+  Rx Packets: 3688
+Flow 11 (1.0.0.2:49163 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 30106
+  Tx Bytes:   31791936
+  TxOffered:  127.168 Mbps
+  Rx Bytes:   2096160
+  Throughput: 6.33057 Mbps
+  Mean delay:  1522.86 ms
+  Mean jitter:  1.87393 ms
+  Rx Packets: 1985
+Flow 12 (1.0.0.2:49164 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 29895
+  Tx Bytes:   31569120
+  TxOffered:  126.276 Mbps
+  Rx Bytes:   3511200
+  Throughput: 13.0876 Mbps
+  Mean delay:  890.13 ms
+  Mean jitter:  0.984697 ms
+  Rx Packets: 3325
+Flow 13 (1.0.0.2:49165 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 26172
+  Tx Bytes:   27637632
+  TxOffered:  110.551 Mbps
+  Rx Bytes:   2048640
+  Throughput: 6.6001 Mbps
+  Mean delay:  1530.39 ms
+  Mean jitter:  1.71902 ms
+  Rx Packets: 1940
+Flow 14 (1.0.0.2:49166 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 24441
+  Tx Bytes:   25809696
+  TxOffered:  103.239 Mbps
+  Rx Bytes:   3540768
+  Throughput: 13.704 Mbps
+  Mean delay:  790.84 ms
+  Mean jitter:  0.768235 ms
+  Rx Packets: 3353
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 38804
+  Tx Bytes:   40977024
+  TxOffered:  163.908 Mbps
+  Rx Bytes:   5364480
+  Throughput: 22.0503 Mbps
+  Mean delay:  423.03 ms
+  Mean jitter:  0.534278 ms
+  Rx Packets: 5080
+Flow 2 (12.0.0.1:49154 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 26970
+  Tx Bytes:   28480320
+  TxOffered:  113.921 Mbps
+  Rx Bytes:   741312
+  Throughput: 4.14798 Mbps
+  Mean delay:  507.181 ms
+  Mean jitter:  1.47595 ms
+  Rx Packets: 702
+--- List of associations (time and node id) ---
+0.600747 18 associate 00:00:00:00:00:0a
+0.601547 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.195s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 43160
+  Tx Bytes:   45576960
+  TxOffered:  182.308 Mbps
+  Rx Bytes:   4133184
+  Throughput: 8.77829 Mbps
+  Mean delay:  1440.57 ms
+  Mean jitter:  1.33945 ms
+  Rx Packets: 3914
+Flow 2 (1.0.0.2:49154 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 43033
+  Tx Bytes:   45442848
+  TxOffered:  181.771 Mbps
+  Rx Bytes:   3343296
+  Throughput: 7.103 Mbps
+  Mean delay:  1527.6 ms
+  Mean jitter:  1.48435 ms
+  Rx Packets: 3166
+Flow 3 (1.0.0.2:49155 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 41991
+  Tx Bytes:   44342496
+  TxOffered:  177.37 Mbps
+  Rx Bytes:   2881824
+  Throughput: 6.18639 Mbps
+  Mean delay:  1614.69 ms
+  Mean jitter:  1.46182 ms
+  Rx Packets: 2729
+Flow 4 (1.0.0.2:49156 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 38441
+  Tx Bytes:   40593696
+  TxOffered:  162.375 Mbps
+  Rx Bytes:   3416160
+  Throughput: 7.63667 Mbps
+  Mean delay:  1632.92 ms
+  Mean jitter:  1.56697 ms
+  Rx Packets: 3235
+Flow 5 (1.0.0.2:49157 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 37453
+  Tx Bytes:   39550368
+  TxOffered:  158.201 Mbps
+  Rx Bytes:   1895520
+  Throughput: 4.28358 Mbps
+  Mean delay:  1864.19 ms
+  Mean jitter:  2.00054 ms
+  Rx Packets: 1795
+Flow 6 (1.0.0.2:49158 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 35968
+  Tx Bytes:   37982208
+  TxOffered:  151.929 Mbps
+  Rx Bytes:   1879680
+  Throughput: 4.32982 Mbps
+  Mean delay:  1931.22 ms
+  Mean jitter:  1.97887 ms
+  Rx Packets: 1780
+Flow 7 (1.0.0.2:49159 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 34069
+  Tx Bytes:   35976864
+  TxOffered:  143.907 Mbps
+  Rx Bytes:   4856544
+  Throughput: 16.6471 Mbps
+  Mean delay:  766.489 ms
+  Mean jitter:  0.782693 ms
+  Rx Packets: 4599
+Flow 8 (1.0.0.2:49160 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 32719
+  Tx Bytes:   34551264
+  TxOffered:  138.205 Mbps
+  Rx Bytes:   3901920
+  Throughput: 12.4892 Mbps
+  Mean delay:  983.718 ms
+  Mean jitter:  0.974027 ms
+  Rx Packets: 3695
+Flow 9 (1.0.0.2:49161 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 32026
+  Tx Bytes:   33819456
+  TxOffered:  135.278 Mbps
+  Rx Bytes:   2430912
+  Throughput: 5.87728 Mbps
+  Mean delay:  1734.96 ms
+  Mean jitter:  1.64725 ms
+  Rx Packets: 2302
+Flow 10 (1.0.0.2:49162 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 31496
+  Tx Bytes:   33259776
+  TxOffered:  133.039 Mbps
+  Rx Bytes:   3039168
+  Throughput: 9.03134 Mbps
+  Mean delay:  1331.51 ms
+  Mean jitter:  1.34634 ms
+  Rx Packets: 2878
+Flow 11 (1.0.0.2:49163 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 29781
+  Tx Bytes:   31448736
+  TxOffered:  125.795 Mbps
+  Rx Bytes:   1711776
+  Throughput: 4.25208 Mbps
+  Mean delay:  1927.96 ms
+  Mean jitter:  2.01247 ms
+  Rx Packets: 1621
+Flow 12 (1.0.0.2:49164 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 28629
+  Tx Bytes:   30232224
+  TxOffered:  120.929 Mbps
+  Rx Bytes:   2116224
+  Throughput: 5.33185 Mbps
+  Mean delay:  1952.43 ms
+  Mean jitter:  1.64051 ms
+  Rx Packets: 2004
+Flow 13 (1.0.0.2:49165 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 26952
+  Tx Bytes:   28461312
+  TxOffered:  113.845 Mbps
+  Rx Bytes:   1805760
+  Throughput: 4.65663 Mbps
+  Mean delay:  1953.24 ms
+  Mean jitter:  1.84292 ms
+  Rx Packets: 1710
+Flow 14 (1.0.0.2:49166 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 24511
+  Tx Bytes:   25883616
+  TxOffered:  103.534 Mbps
+  Rx Bytes:   3832224
+  Throughput: 16.3346 Mbps
+  Mean delay:  749.817 ms
+  Mean jitter:  0.7593 ms
+  Rx Packets: 3629
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 39028
+  Tx Bytes:   41213568
+  TxOffered:  164.854 Mbps
+  Rx Bytes:   2188032
+  Throughput: 8.32606 Mbps
+  Mean delay:  341.657 ms
+  Mean jitter:  1.62438 ms
+  Rx Packets: 2072
+Flow 2 (12.0.0.1:49154 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 25178
+  Tx Bytes:   26587968
+  TxOffered:  106.352 Mbps
+  Rx Bytes:   0
+  Throughput:  0 Mbps
+  Mean delay:  0 ms
+  Mean jitter: 0 ms
+  Rx Packets: 0
+--- List of associations (time and node id) ---
+0.600540 18 associate 00:00:00:00:00:0a
+1.200939 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.211s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 47967
+  Tx Bytes:   50653152
+  TxOffered:  202.613 Mbps
+  Rx Bytes:   5544000
+  Throughput: 13.414 Mbps
+  Mean delay:  920.142 ms
+  Mean jitter:  0.940324 ms
+  Rx Packets: 5250
+Flow 2 (1.0.0.2:49154 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 44244
+  Tx Bytes:   46721664
+  TxOffered:  186.887 Mbps
+  Rx Bytes:   5299008
+  Throughput: 14.1529 Mbps
+  Mean delay:  882.583 ms
+  Mean jitter:  0.926979 ms
+  Rx Packets: 5018
+Flow 3 (1.0.0.2:49155 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 44146
+  Tx Bytes:   46618176
+  TxOffered:  186.473 Mbps
+  Rx Bytes:   3420384
+  Throughput: 7.30019 Mbps
+  Mean delay:  1531.78 ms
+  Mean jitter:  1.56279 ms
+  Rx Packets: 3239
+Flow 4 (1.0.0.2:49156 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 43778
+  Tx Bytes:   46229568
+  TxOffered:  184.918 Mbps
+  Rx Bytes:   1770912
+  Throughput: 3.78589 Mbps
+  Mean delay:  2014.1 ms
+  Mean jitter:  2.3967 ms
+  Rx Packets: 1677
+Flow 5 (1.0.0.2:49157 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 41869
+  Tx Bytes:   44213664
+  TxOffered:  176.855 Mbps
+  Rx Bytes:   3558720
+  Throughput: 8.16309 Mbps
+  Mean delay:  1432.12 ms
+  Mean jitter:  1.47835 ms
+  Rx Packets: 3370
+Flow 6 (1.0.0.2:49158 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 39449
+  Tx Bytes:   41658144
+  TxOffered:  166.633 Mbps
+  Rx Bytes:   3775200
+  Throughput: 9.56008 Mbps
+  Mean delay:  1044.87 ms
+  Mean jitter:  1.14662 ms
+  Rx Packets: 3575
+Flow 7 (1.0.0.2:49159 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 39339
+  Tx Bytes:   41541984
+  TxOffered:  166.168 Mbps
+  Rx Bytes:   7155456
+  Throughput: 24.636 Mbps
+  Mean delay:  546.794 ms
+  Mean jitter:  0.566259 ms
+  Rx Packets: 6776
+Flow 8 (1.0.0.2:49160 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 37999
+  Tx Bytes:   40126944
+  TxOffered:  160.508 Mbps
+  Rx Bytes:   1511136
+  Throughput: 3.46542 Mbps
+  Mean delay:  2055.16 ms
+  Mean jitter:  2.46054 ms
+  Rx Packets: 1431
+Flow 9 (1.0.0.2:49161 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 35967
+  Tx Bytes:   37981152
+  TxOffered:  151.925 Mbps
+  Rx Bytes:   1837440
+  Throughput: 4.22773 Mbps
+  Mean delay:  1938.64 ms
+  Mean jitter:  1.95154 ms
+  Rx Packets: 1740
+Flow 10 (1.0.0.2:49162 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 35310
+  Tx Bytes:   37287360
+  TxOffered:  149.149 Mbps
+  Rx Bytes:   3568224
+  Throughput: 9.83343 Mbps
+  Mean delay:  1161.69 ms
+  Mean jitter:  1.23034 ms
+  Rx Packets: 3379
+Flow 11 (1.0.0.2:49163 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 34132
+  Tx Bytes:   36043392
+  TxOffered:  144.174 Mbps
+  Rx Bytes:   3116256
+  Throughput: 7.82123 Mbps
+  Mean delay:  1459.18 ms
+  Mean jitter:  1.51394 ms
+  Rx Packets: 2951
+Flow 12 (1.0.0.2:49164 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 27330
+  Tx Bytes:   28860480
+  TxOffered:  115.442 Mbps
+  Rx Bytes:   3013824
+  Throughput: 8.99042 Mbps
+  Mean delay:  1234.56 ms
+  Mean jitter:  1.23093 ms
+  Rx Packets: 2854
+Flow 13 (1.0.0.2:49165 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 26360
+  Tx Bytes:   27836160
+  TxOffered:  111.345 Mbps
+  Rx Bytes:   5309568
+  Throughput: 24.2462 Mbps
+  Mean delay:  521.341 ms
+  Mean jitter:  0.533082 ms
+  Rx Packets: 5028
+Flow 14 (1.0.0.2:49166 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 25673
+  Tx Bytes:   27110688
+  TxOffered:  108.443 Mbps
+  Rx Bytes:   2669568
+  Throughput: 7.61467 Mbps
+  Mean delay:  1436.63 ms
+  Mean jitter:  1.4642 ms
+  Rx Packets: 2528
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 46153
+  Tx Bytes:   48737568
+  TxOffered:  194.95 Mbps
+  Rx Bytes:   2030688
+  Throughput: 7.11615 Mbps
+  Mean delay:  376.029 ms
+  Mean jitter:  1.7056 ms
+  Rx Packets: 1923
+Flow 2 (12.0.0.1:49154 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 32572
+  Tx Bytes:   34396032
+  TxOffered:  137.584 Mbps
+  Rx Bytes:   451968
+  Throughput: 2.44851 Mbps
+  Mean delay:  361.437 ms
+  Mean jitter:  2.35795 ms
+  Rx Packets: 428
+--- List of associations (time and node id) ---
+0.600567 18 associate 00:00:00:00:00:0a
+0.601655 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.367s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 47686
+  Tx Bytes:   50356416
+  TxOffered:  201.426 Mbps
+  Rx Bytes:   5238816
+  Throughput: 12.7278 Mbps
+  Mean delay:  946.101 ms
+  Mean jitter:  0.995967 ms
+  Rx Packets: 4961
+Flow 2 (1.0.0.2:49154 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 47255
+  Tx Bytes:   49901280
+  TxOffered:  199.605 Mbps
+  Rx Bytes:   3195456
+  Throughput: 6.53284 Mbps
+  Mean delay:  1753.25 ms
+  Mean jitter:  1.86796 ms
+  Rx Packets: 3026
+Flow 3 (1.0.0.2:49155 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 46522
+  Tx Bytes:   49127232
+  TxOffered:  196.509 Mbps
+  Rx Bytes:   5111040
+  Throughput: 10.7461 Mbps
+  Mean delay:  1145.95 ms
+  Mean jitter:  1.15312 ms
+  Rx Packets: 4840
+Flow 4 (1.0.0.2:49156 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 45378
+  Tx Bytes:   47919168
+  TxOffered:  191.677 Mbps
+  Rx Bytes:   5649600
+  Throughput: 14.996 Mbps
+  Mean delay:  855.83 ms
+  Mean jitter:  0.876063 ms
+  Rx Packets: 5350
+Flow 5 (1.0.0.2:49157 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 41147
+  Tx Bytes:   43451232
+  TxOffered:  173.805 Mbps
+  Rx Bytes:   7208256
+  Throughput: 23.5762 Mbps
+  Mean delay:  560.563 ms
+  Mean jitter:  0.59129 ms
+  Rx Packets: 6826
+Flow 6 (1.0.0.2:49158 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 38900
+  Tx Bytes:   41078400
+  TxOffered:  164.314 Mbps
+  Rx Bytes:   3805824
+  Throughput: 8.70011 Mbps
+  Mean delay:  1286.78 ms
+  Mean jitter:  1.33892 ms
+  Rx Packets: 3604
+Flow 7 (1.0.0.2:49159 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 34534
+  Tx Bytes:   36467904
+  TxOffered:  145.872 Mbps
+  Rx Bytes:   3624192
+  Throughput: 10.3401 Mbps
+  Mean delay:  1115.27 ms
+  Mean jitter:  1.17208 ms
+  Rx Packets: 3432
+Flow 8 (1.0.0.2:49160 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 34523
+  Tx Bytes:   36456288
+  TxOffered:  145.825 Mbps
+  Rx Bytes:   2838528
+  Throughput: 6.64454 Mbps
+  Mean delay:  1642.28 ms
+  Mean jitter:  1.60936 ms
+  Rx Packets: 2688
+Flow 9 (1.0.0.2:49161 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 34468
+  Tx Bytes:   36398208
+  TxOffered:  145.593 Mbps
+  Rx Bytes:   2925120
+  Throughput: 7.1864 Mbps
+  Mean delay:  1704.24 ms
+  Mean jitter:  1.62298 ms
+  Rx Packets: 2770
+Flow 10 (1.0.0.2:49162 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 31707
+  Tx Bytes:   33482592
+  TxOffered:  133.93 Mbps
+  Rx Bytes:   2235552
+  Throughput: 5.41988 Mbps
+  Mean delay:  1714.33 ms
+  Mean jitter:  1.86873 ms
+  Rx Packets: 2117
+Flow 11 (1.0.0.2:49163 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 28404
+  Tx Bytes:   29994624
+  TxOffered:  119.978 Mbps
+  Rx Bytes:   3263040
+  Throughput: 10.3673 Mbps
+  Mean delay:  1030.14 ms
+  Mean jitter:  1.00796 ms
+  Rx Packets: 3090
+Flow 12 (1.0.0.2:49164 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 28279
+  Tx Bytes:   29862624
+  TxOffered:  119.45 Mbps
+  Rx Bytes:   2156352
+  Throughput: 5.45772 Mbps
+  Mean delay:  1677.56 ms
+  Mean jitter:  1.63512 ms
+  Rx Packets: 2042
+Flow 13 (1.0.0.2:49165 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 27009
+  Tx Bytes:   28521504
+  TxOffered:  114.086 Mbps
+  Rx Bytes:   2416128
+  Throughput: 6.21391 Mbps
+  Mean delay:  1650.58 ms
+  Mean jitter:  1.64849 ms
+  Rx Packets: 2288
+Flow 14 (1.0.0.2:49166 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 25282
+  Tx Bytes:   26697792
+  TxOffered:  106.791 Mbps
+  Rx Bytes:   2770944
+  Throughput: 7.293 Mbps
+  Mean delay:  1514.17 ms
+  Mean jitter:  1.49843 ms
+  Rx Packets: 2624
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 42899
+  Tx Bytes:   45301344
+  TxOffered:  181.205 Mbps
+  Rx Bytes:   0
+  Throughput:  0 Mbps
+  Mean delay:  0 ms
+  Mean jitter: 0 ms
+  Rx Packets: 0
+Flow 2 (12.0.0.1:49154 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 29082
+  Tx Bytes:   30710592
+  TxOffered:  122.842 Mbps
+  Rx Bytes:   1353792
+  Throughput: 6.83283 Mbps
+  Mean delay:  270.515 ms
+  Mean jitter:  1.82289 ms
+  Rx Packets: 1282
+--- List of associations (time and node id) ---
+0.600310 18 associate 00:00:00:00:00:0a
+1.200842 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.243s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 44118
+  Tx Bytes:   46588608
+  TxOffered:  186.354 Mbps
+  Rx Bytes:   2420352
+  Throughput: 5.07926 Mbps
+  Mean delay:  1941.72 ms
+  Mean jitter:  1.77521 ms
+  Rx Packets: 2292
+Flow 2 (1.0.0.2:49154 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 43397
+  Tx Bytes:   45827232
+  TxOffered:  183.309 Mbps
+  Rx Bytes:   2856480
+  Throughput: 6.04474 Mbps
+  Mean delay:  1773.52 ms
+  Mean jitter:  1.70603 ms
+  Rx Packets: 2705
+Flow 3 (1.0.0.2:49155 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 43381
+  Tx Bytes:   45810336
+  TxOffered:  183.241 Mbps
+  Rx Bytes:   3393984
+  Throughput: 7.17582 Mbps
+  Mean delay:  1688.4 ms
+  Mean jitter:  1.58933 ms
+  Rx Packets: 3214
+Flow 4 (1.0.0.2:49156 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 42501
+  Tx Bytes:   44881056
+  TxOffered:  179.524 Mbps
+  Rx Bytes:   2204928
+  Throughput: 4.71184 Mbps
+  Mean delay:  2011.19 ms
+  Mean jitter:  1.82178 ms
+  Rx Packets: 2088
+Flow 5 (1.0.0.2:49157 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 40458
+  Tx Bytes:   42723648
+  TxOffered:  170.895 Mbps
+  Rx Bytes:   2884992
+  Throughput: 8.0513 Mbps
+  Mean delay:  1384.96 ms
+  Mean jitter:  1.61069 ms
+  Rx Packets: 2732
+Flow 6 (1.0.0.2:49158 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 37295
+  Tx Bytes:   39383520
+  TxOffered:  157.534 Mbps
+  Rx Bytes:   3402432
+  Throughput: 10.4587 Mbps
+  Mean delay:  997.942 ms
+  Mean jitter:  0.994995 ms
+  Rx Packets: 3222
+Flow 7 (1.0.0.2:49159 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 36484
+  Tx Bytes:   38527104
+  TxOffered:  154.108 Mbps
+  Rx Bytes:   3249312
+  Throughput: 7.42658 Mbps
+  Mean delay:  1554.7 ms
+  Mean jitter:  1.49945 ms
+  Rx Packets: 3077
+Flow 8 (1.0.0.2:49160 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 34292
+  Tx Bytes:   36212352
+  TxOffered:  144.849 Mbps
+  Rx Bytes:   3015936
+  Throughput: 9.61615 Mbps
+  Mean delay:  1082.55 ms
+  Mean jitter:  1.07057 ms
+  Rx Packets: 2856
+Flow 9 (1.0.0.2:49161 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 33884
+  Tx Bytes:   35781504
+  TxOffered:  143.126 Mbps
+  Rx Bytes:   2908224
+  Throughput: 8.94735 Mbps
+  Mean delay:  1127.4 ms
+  Mean jitter:  1.16796 ms
+  Rx Packets: 2754
+Flow 10 (1.0.0.2:49162 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 31160
+  Tx Bytes:   32904960
+  TxOffered:  131.62 Mbps
+  Rx Bytes:   3251424
+  Throughput: 9.23934 Mbps
+  Mean delay:  1287.39 ms
+  Mean jitter:  1.26442 ms
+  Rx Packets: 3079
+Flow 11 (1.0.0.2:49163 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 30106
+  Tx Bytes:   31791936
+  TxOffered:  127.168 Mbps
+  Rx Bytes:   2706528
+  Throughput: 6.69117 Mbps
+  Mean delay:  1662.82 ms
+  Mean jitter:  1.5324 ms
+  Rx Packets: 2563
+Flow 12 (1.0.0.2:49164 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 29895
+  Tx Bytes:   31569120
+  TxOffered:  126.276 Mbps
+  Rx Bytes:   2706528
+  Throughput: 8.27279 Mbps
+  Mean delay:  1512.15 ms
+  Mean jitter:  1.40507 ms
+  Rx Packets: 2563
+Flow 13 (1.0.0.2:49165 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 26172
+  Tx Bytes:   27637632
+  TxOffered:  110.551 Mbps
+  Rx Bytes:   2472096
+  Throughput: 8.67721 Mbps
+  Mean delay:  1173.64 ms
+  Mean jitter:  1.24123 ms
+  Rx Packets: 2341
+Flow 14 (1.0.0.2:49166 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 24441
+  Tx Bytes:   25809696
+  TxOffered:  103.239 Mbps
+  Rx Bytes:   2906112
+  Throughput: 8.4511 Mbps
+  Mean delay:  1340.21 ms
+  Mean jitter:  1.30526 ms
+  Rx Packets: 2752
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 38804
+  Tx Bytes:   40977024
+  TxOffered:  163.908 Mbps
+  Rx Bytes:   9576864
+  Throughput: 37.1317 Mbps
+  Mean delay:  402.29 ms
+  Mean jitter:  0.335594 ms
+  Rx Packets: 9069
+Flow 2 (12.0.0.1:49154 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 26970
+  Tx Bytes:   28480320
+  TxOffered:  113.921 Mbps
+  Rx Bytes:   0
+  Throughput:  0 Mbps
+  Mean delay:  0 ms
+  Mean jitter: 0 ms
+  Rx Packets: 0
+--- List of associations (time and node id) ---
+0.600747 18 associate 00:00:00:00:00:0a
+0.601547 17 associate 00:00:00:00:00:0a
+3.344212 17 deassociate 00:00:00:00:00:0a
+4.967124 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.186s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 43160
+  Tx Bytes:   45576960
+  TxOffered:  182.308 Mbps
+  Rx Bytes:   2172192
+  Throughput: 4.61098 Mbps
+  Mean delay:  1655.34 ms
+  Mean jitter:  1.87771 ms
+  Rx Packets: 2057
+Flow 2 (1.0.0.2:49154 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 43033
+  Tx Bytes:   45442848
+  TxOffered:  181.771 Mbps
+  Rx Bytes:   2363328
+  Throughput: 5.04512 Mbps
+  Mean delay:  1595.56 ms
+  Mean jitter:  1.73683 ms
+  Rx Packets: 2238
+Flow 3 (1.0.0.2:49155 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 41991
+  Tx Bytes:   44342496
+  TxOffered:  177.37 Mbps
+  Rx Bytes:   1916640
+  Throughput: 4.26553 Mbps
+  Mean delay:  2027.67 ms
+  Mean jitter:  2.08754 ms
+  Rx Packets: 1815
+Flow 4 (1.0.0.2:49156 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 38441
+  Tx Bytes:   40593696
+  TxOffered:  162.375 Mbps
+  Rx Bytes:   2625216
+  Throughput: 5.8916 Mbps
+  Mean delay:  1535.08 ms
+  Mean jitter:  1.69931 ms
+  Rx Packets: 2486
+Flow 5 (1.0.0.2:49157 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 37453
+  Tx Bytes:   39550368
+  TxOffered:  158.201 Mbps
+  Rx Bytes:   2221824
+  Throughput: 5.02098 Mbps
+  Mean delay:  1914.88 ms
+  Mean jitter:  1.88467 ms
+  Rx Packets: 2104
+Flow 6 (1.0.0.2:49158 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 35968
+  Tx Bytes:   37982208
+  TxOffered:  151.929 Mbps
+  Rx Bytes:   1309440
+  Throughput: 3.01108 Mbps
+  Mean delay:  1723.78 ms
+  Mean jitter:  2.83108 ms
+  Rx Packets: 1240
+Flow 7 (1.0.0.2:49159 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 34069
+  Tx Bytes:   35976864
+  TxOffered:  143.907 Mbps
+  Rx Bytes:   3618912
+  Throughput: 10.6053 Mbps
+  Mean delay:  1138.06 ms
+  Mean jitter:  1.11951 ms
+  Rx Packets: 3427
+Flow 8 (1.0.0.2:49160 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 32719
+  Tx Bytes:   34551264
+  TxOffered:  138.205 Mbps
+  Rx Bytes:   2117280
+  Throughput: 5.06317 Mbps
+  Mean delay:  1865.09 ms
+  Mean jitter:  1.88747 ms
+  Rx Packets: 2005
+Flow 9 (1.0.0.2:49161 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 32026
+  Tx Bytes:   33819456
+  TxOffered:  135.278 Mbps
+  Rx Bytes:   1805760
+  Throughput: 4.38705 Mbps
+  Mean delay:  1698.49 ms
+  Mean jitter:  1.94151 ms
+  Rx Packets: 1710
+Flow 10 (1.0.0.2:49162 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 31496
+  Tx Bytes:   33259776
+  TxOffered:  133.039 Mbps
+  Rx Bytes:   1369632
+  Throughput: 3.37233 Mbps
+  Mean delay:  1998.74 ms
+  Mean jitter:  2.42916 ms
+  Rx Packets: 1297
+Flow 11 (1.0.0.2:49163 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 29781
+  Tx Bytes:   31448736
+  TxOffered:  125.795 Mbps
+  Rx Bytes:   1889184
+  Throughput: 4.68695 Mbps
+  Mean delay:  1628.87 ms
+  Mean jitter:  1.82309 ms
+  Rx Packets: 1789
+Flow 12 (1.0.0.2:49164 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 28629
+  Tx Bytes:   30232224
+  TxOffered:  120.929 Mbps
+  Rx Bytes:   1918752
+  Throughput: 4.84041 Mbps
+  Mean delay:  1655.76 ms
+  Mean jitter:  1.76507 ms
+  Rx Packets: 1817
+Flow 13 (1.0.0.2:49165 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 26952
+  Tx Bytes:   28461312
+  TxOffered:  113.845 Mbps
+  Rx Bytes:   1966272
+  Throughput: 5.08695 Mbps
+  Mean delay:  1549.1 ms
+  Mean jitter:  1.66697 ms
+  Rx Packets: 1862
+Flow 14 (1.0.0.2:49166 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 24511
+  Tx Bytes:   25883616
+  TxOffered:  103.534 Mbps
+  Rx Bytes:   3172224
+  Throughput: 12.6078 Mbps
+  Mean delay:  905.096 ms
+  Mean jitter:  0.951405 ms
+  Rx Packets: 3004
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 39028
+  Tx Bytes:   41213568
+  TxOffered:  164.854 Mbps
+  Rx Bytes:   2695968
+  Throughput: 10.2993 Mbps
+  Mean delay:  385.994 ms
+  Mean jitter:  1.29165 ms
+  Rx Packets: 2553
+Flow 2 (12.0.0.1:49154 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 25178
+  Tx Bytes:   26587968
+  TxOffered:  106.352 Mbps
+  Rx Bytes:   1056
+  Throughput: 0.00443789 Mbps
+  Mean delay:  1903.61 ms
+  Mean jitter:  0 ms
+  Rx Packets: 1
+--- List of associations (time and node id) ---
+0.600540 18 associate 00:00:00:00:00:0a
+1.200939 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.345s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 47967
+  Tx Bytes:   50653152
+  TxOffered:  202.613 Mbps
+  Rx Bytes:   5363424
+  Throughput: 11.8254 Mbps
+  Mean delay:  1018.02 ms
+  Mean jitter:  1.0501 ms
+  Rx Packets: 5079
+Flow 2 (1.0.0.2:49154 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 44244
+  Tx Bytes:   46721664
+  TxOffered:  186.887 Mbps
+  Rx Bytes:   5132160
+  Throughput: 13.4645 Mbps
+  Mean delay:  913.059 ms
+  Mean jitter:  0.96087 ms
+  Rx Packets: 4860
+Flow 3 (1.0.0.2:49155 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 44146
+  Tx Bytes:   46618176
+  TxOffered:  186.473 Mbps
+  Rx Bytes:   2533344
+  Throughput: 5.34282 Mbps
+  Mean delay:  1749.24 ms
+  Mean jitter:  1.88509 ms
+  Rx Packets: 2399
+Flow 4 (1.0.0.2:49156 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 43778
+  Tx Bytes:   46229568
+  TxOffered:  184.918 Mbps
+  Rx Bytes:   1579776
+  Throughput: 3.34509 Mbps
+  Mean delay:  1864.63 ms
+  Mean jitter:  2.55062 ms
+  Rx Packets: 1496
+Flow 5 (1.0.0.2:49157 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 41869
+  Tx Bytes:   44213664
+  TxOffered:  176.855 Mbps
+  Rx Bytes:   3766752
+  Throughput: 9.01509 Mbps
+  Mean delay:  1298.64 ms
+  Mean jitter:  1.35227 ms
+  Rx Packets: 3567
+Flow 6 (1.0.0.2:49158 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 39449
+  Tx Bytes:   41658144
+  TxOffered:  166.633 Mbps
+  Rx Bytes:   3571392
+  Throughput: 7.99162 Mbps
+  Mean delay:  1350.03 ms
+  Mean jitter:  1.4276 ms
+  Rx Packets: 3382
+Flow 7 (1.0.0.2:49159 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 39339
+  Tx Bytes:   41541984
+  TxOffered:  166.168 Mbps
+  Rx Bytes:   6296928
+  Throughput: 20.8976 Mbps
+  Mean delay:  620.266 ms
+  Mean jitter:  0.63857 ms
+  Rx Packets: 5963
+Flow 8 (1.0.0.2:49160 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 37999
+  Tx Bytes:   40126944
+  TxOffered:  160.508 Mbps
+  Rx Bytes:   1986336
+  Throughput: 4.4706 Mbps
+  Mean delay:  2110.25 ms
+  Mean jitter:  1.92213 ms
+  Rx Packets: 1881
+Flow 9 (1.0.0.2:49161 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 35967
+  Tx Bytes:   37981152
+  TxOffered:  151.925 Mbps
+  Rx Bytes:   1422432
+  Throughput: 3.28988 Mbps
+  Mean delay:  1730.86 ms
+  Mean jitter:  2.57931 ms
+  Rx Packets: 1347
+Flow 10 (1.0.0.2:49162 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 35310
+  Tx Bytes:   37287360
+  TxOffered:  149.149 Mbps
+  Rx Bytes:   3358080
+  Throughput: 8.99707 Mbps
+  Mean delay:  1284.02 ms
+  Mean jitter:  1.30356 ms
+  Rx Packets: 3180
+Flow 11 (1.0.0.2:49163 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 34132
+  Tx Bytes:   36043392
+  TxOffered:  144.174 Mbps
+  Rx Bytes:   2116224
+  Throughput: 5.00218 Mbps
+  Mean delay:  1949.49 ms
+  Mean jitter:  2.12566 ms
+  Rx Packets: 2004
+Flow 12 (1.0.0.2:49164 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 27330
+  Tx Bytes:   28860480
+  TxOffered:  115.442 Mbps
+  Rx Bytes:   2350656
+  Throughput: 6.01998 Mbps
+  Mean delay:  1605.12 ms
+  Mean jitter:  1.68439 ms
+  Rx Packets: 2226
+Flow 13 (1.0.0.2:49165 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 26360
+  Tx Bytes:   27836160
+  TxOffered:  111.345 Mbps
+  Rx Bytes:   4999104
+  Throughput: 22.8284 Mbps
+  Mean delay:  543.085 ms
+  Mean jitter:  0.534794 ms
+  Rx Packets: 4734
+Flow 14 (1.0.0.2:49166 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 25673
+  Tx Bytes:   27110688
+  TxOffered:  108.443 Mbps
+  Rx Bytes:   1919808
+  Throughput: 5.02624 Mbps
+  Mean delay:  1646.49 ms
+  Mean jitter:  1.72892 ms
+  Rx Packets: 1818
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 46153
+  Tx Bytes:   48737568
+  TxOffered:  194.95 Mbps
+  Rx Bytes:   2422464
+  Throughput: 8.4477 Mbps
+  Mean delay:  429.585 ms
+  Mean jitter:  1.6 ms
+  Rx Packets: 2294
+Flow 2 (12.0.0.1:49154 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 32572
+  Tx Bytes:   34396032
+  TxOffered:  137.584 Mbps
+  Rx Bytes:   653664
+  Throughput: 3.04821 Mbps
+  Mean delay:  407.467 ms
+  Mean jitter:  1.60306 ms
+  Rx Packets: 619
+--- List of associations (time and node id) ---
+0.600567 18 associate 00:00:00:00:00:0a
+0.601655 17 associate 00:00:00:00:00:0a
+Waf: Entering directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Waf: Leaving directory `/home/mcni/rkumbhkar/repos/ns-3-lbt/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.185s)
+***************************8
+Running simulation for 2 sec of data transfer; 6 sec overall
+Operator A: LAA; number of cells 2; number of UEs 14
+Operator B: Wi-Fi; number of cells 1; number of UEs 2
+Total txop duration: 0 seconds.
+Total phy arrivals duration: 0 seconds.
+--------monitorA----------
+Flow 1 (1.0.0.2:49153 -> 7.0.0.9:9) proto UDP
+  Tx Packets: 47686
+  Tx Bytes:   50356416
+  TxOffered:  201.426 Mbps
+  Rx Bytes:   3706560
+  Throughput: 7.48643 Mbps
+  Mean delay:  1466.85 ms
+  Mean jitter:  1.41567 ms
+  Rx Packets: 3510
+Flow 2 (1.0.0.2:49154 -> 7.0.0.4:9) proto UDP
+  Tx Packets: 47255
+  Tx Bytes:   49901280
+  TxOffered:  199.605 Mbps
+  Rx Bytes:   2038080
+  Throughput: 4.14339 Mbps
+  Mean delay:  1685.56 ms
+  Mean jitter:  2.06633 ms
+  Rx Packets: 1930
+Flow 3 (1.0.0.2:49155 -> 7.0.0.3:9) proto UDP
+  Tx Packets: 46522
+  Tx Bytes:   49127232
+  TxOffered:  196.509 Mbps
+  Rx Bytes:   4457376
+  Throughput: 9.13875 Mbps
+  Mean delay:  1292.45 ms
+  Mean jitter:  1.26987 ms
+  Rx Packets: 4221
+Flow 4 (1.0.0.2:49156 -> 7.0.0.12:9) proto UDP
+  Tx Packets: 45378
+  Tx Bytes:   47919168
+  TxOffered:  191.677 Mbps
+  Rx Bytes:   4500672
+  Throughput: 9.66867 Mbps
+  Mean delay:  1234.76 ms
+  Mean jitter:  1.2472 ms
+  Rx Packets: 4262
+Flow 5 (1.0.0.2:49157 -> 7.0.0.7:9) proto UDP
+  Tx Packets: 41147
+  Tx Bytes:   43451232
+  TxOffered:  173.805 Mbps
+  Rx Bytes:   6236736
+  Throughput: 18.2098 Mbps
+  Mean delay:  702.194 ms
+  Mean jitter:  0.6999 ms
+  Rx Packets: 5906
+Flow 6 (1.0.0.2:49158 -> 7.0.0.8:9) proto UDP
+  Tx Packets: 38900
+  Tx Bytes:   41078400
+  TxOffered:  164.314 Mbps
+  Rx Bytes:   4825920
+  Throughput: 12.4197 Mbps
+  Mean delay:  966.76 ms
+  Mean jitter:  0.997771 ms
+  Rx Packets: 4570
+Flow 7 (1.0.0.2:49159 -> 7.0.0.13:9) proto UDP
+  Tx Packets: 34534
+  Tx Bytes:   36467904
+  TxOffered:  145.872 Mbps
+  Rx Bytes:   2548128
+  Throughput: 6.00973 Mbps
+  Mean delay:  1631.72 ms
+  Mean jitter:  1.75871 ms
+  Rx Packets: 2413
+Flow 8 (1.0.0.2:49160 -> 7.0.0.5:9) proto UDP
+  Tx Packets: 34523
+  Tx Bytes:   36456288
+  TxOffered:  145.825 Mbps
+  Rx Bytes:   3611520
+  Throughput: 8.48627 Mbps
+  Mean delay:  1325.29 ms
+  Mean jitter:  1.38229 ms
+  Rx Packets: 3420
+Flow 9 (1.0.0.2:49161 -> 7.0.0.14:9) proto UDP
+  Tx Packets: 34468
+  Tx Bytes:   36398208
+  TxOffered:  145.593 Mbps
+  Rx Bytes:   2556576
+  Throughput: 5.98505 Mbps
+  Mean delay:  1631.13 ms
+  Mean jitter:  1.71719 ms
+  Rx Packets: 2421
+Flow 10 (1.0.0.2:49162 -> 7.0.0.11:9) proto UDP
+  Tx Packets: 31707
+  Tx Bytes:   33482592
+  TxOffered:  133.93 Mbps
+  Rx Bytes:   1800480
+  Throughput: 4.37039 Mbps
+  Mean delay:  1664.21 ms
+  Mean jitter:  1.94607 ms
+  Rx Packets: 1705
+Flow 11 (1.0.0.2:49163 -> 7.0.0.15:9) proto UDP
+  Tx Packets: 28404
+  Tx Bytes:   29994624
+  TxOffered:  119.978 Mbps
+  Rx Bytes:   3294720
+  Throughput: 8.68759 Mbps
+  Mean delay:  1227.83 ms
+  Mean jitter:  1.32817 ms
+  Rx Packets: 3120
+Flow 12 (1.0.0.2:49164 -> 7.0.0.10:9) proto UDP
+  Tx Packets: 28279
+  Tx Bytes:   29862624
+  TxOffered:  119.45 Mbps
+  Rx Bytes:   2439360
+  Throughput: 6.2074 Mbps
+  Mean delay:  1586.12 ms
+  Mean jitter:  1.58788 ms
+  Rx Packets: 2310
+Flow 13 (1.0.0.2:49165 -> 7.0.0.2:9) proto UDP
+  Tx Packets: 27009
+  Tx Bytes:   28521504
+  TxOffered:  114.086 Mbps
+  Rx Bytes:   1935648
+  Throughput: 4.99585 Mbps
+  Mean delay:  1540.95 ms
+  Mean jitter:  1.71377 ms
+  Rx Packets: 1833
+Flow 14 (1.0.0.2:49166 -> 7.0.0.6:9) proto UDP
+  Tx Packets: 25282
+  Tx Bytes:   26697792
+  TxOffered:  106.791 Mbps
+  Rx Bytes:   2238720
+  Throughput: 5.92928 Mbps
+  Mean delay:  1613.63 ms
+  Mean jitter:  1.61571 ms
+  Rx Packets: 2120
+--------monitorB----------
+Flow 1 (12.0.0.1:49153 -> 18.0.0.3:9) proto UDP
+  Tx Packets: 42899
+  Tx Bytes:   45301344
+  TxOffered:  181.205 Mbps
+  Rx Bytes:   695904
+  Throughput: 2.51218 Mbps
+  Mean delay:  404.733 ms
+  Mean jitter:  3.24967 ms
+  Rx Packets: 659
+Flow 2 (12.0.0.1:49154 -> 18.0.0.2:9) proto UDP
+  Tx Packets: 29082
+  Tx Bytes:   30710592
+  TxOffered:  122.842 Mbps
+  Rx Bytes:   281952
+  Throughput: 1.37067 Mbps
+  Mean delay:  515.211 ms
+  Mean jitter:  6.84556 ms
+  Rx Packets: 267
+--- List of associations (time and node id) ---
+0.600310 18 associate 00:00:00:00:00:0a
+1.200842 17 associate 00:00:00:00:00:0a

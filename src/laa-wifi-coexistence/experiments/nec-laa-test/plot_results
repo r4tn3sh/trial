@@ -1,0 +1,40 @@
+#! /usr/bin/gnuplot
+
+set boxwidth 0.9 absolute
+set style fill   solid 1.00 border lt -1
+set key inside right top vertical Right noreverse noenhanced autotitle nobox
+set style histogram clustered gap 1 title textcolor lt -1
+set datafile missing '-'
+set style data histograms
+set xtics border in scale 0,0 nomirror rotate by -45  autojustify
+set xtics  norangelimit
+set xtics   ()
+#set yrange [ 0.00000 : 300000. ] noreverse nowriteback
+x = 0.0
+i = 22
+
+set term wxt 0
+set title "Change in contention window"
+plot './results/laa_wifi_indoor_default_cw_log' using 2:4 with points
+
+set term wxt 1
+set title "Change in backoff values"
+plot './results/laa_wifi_indoor_default_backoff_log' using 2:3 with points
+
+set term wxt 2
+unset key
+set title "Throughput for operator A"
+set xlabel "UE/STA id"
+set ylabel "Throughput (Mbps)"
+set style histogram clustered gap 1
+plot './results/laa_wifi_indoor_default_operatorA' using 8
+
+set term wxt 3
+unset key
+set title "Throughput for operator B"
+set xlabel "UE/STA id"
+set ylabel "Throughput (Mbps)"
+set style histogram clustered gap 1
+plot './results/laa_wifi_indoor_default_operatorB' using 8
+
+pause(-1)
